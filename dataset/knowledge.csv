@@ -1,0 +1,3305 @@
+memory foam pillow,located in,bedroom
+memory foam pillow,located in,children room
+memory foam pillow,subclass of,pillow
+memory foam pillow,functionally coupled with,washing machine
+washing machine,functionally coupled with,memory foam pillow
+memory foam pillow,functionally coupled with,memory foam mattress
+memory foam mattress,functionally coupled with,memory foam pillow
+memory foam pillow,physically coupled with,down & feather duvets
+down & feather duvets,physically coupled with,memory foam pillow
+memory foam pillow,physically coupled with,bed frame
+bed frame,physically coupled with,memory foam pillow
+memory foam pillow,physically coupled with,cushion
+cushion,physically coupled with,memory foam pillow
+memory foam mattress,located in,bedroom
+memory foam mattress,subclass of,mattress
+memory foam mattress,functionally coupled with,bed frame
+bed frame,functionally coupled with,memory foam mattress
+down & feather duvets,located in,bedroom
+down & feather duvets,subclass of,duvet
+down & feather duvets,functionally coupled with,washing machine
+washing machine,functionally coupled with,down & feather duvets
+down & feather duvets,physically coupled with,memory foam mattress
+memory foam mattress,physically coupled with,down & feather duvets
+cushion,located in,bedroom
+cushion,located in,living room
+cushion,subclass of,soft furnishing
+cushion,physically coupled with,bed
+bed,physically coupled with,cushion
+cushion,physically coupled with,couch
+couch,physically coupled with,cushion
+bed frame,located in,bedroom
+bed frame,part of,bed
+bed frame,physically coupled with,floor
+floor,physically coupled with,bed frame
+bed frame,physically coupled with,wall
+wall,physically coupled with,bed frame
+bed frame,has attribute,high clearance
+storage bed,located in,bedroom
+storage bed,subclass of,bed
+storage bed,functionally coupled with,memory foam mattress
+memory foam mattress,functionally coupled with,storage bed
+storage bed,functionally coupled with,chest of drawers
+chest of drawers,functionally coupled with,storage bed
+storage bed,physically coupled with,wall
+wall,physically coupled with,storage bed
+storage bed,physically coupled with,floor
+floor,physically coupled with,storage bed
+bedside table,located in,bedroom
+bedside table,subclass of,table
+bedside table,functionally coupled with,chest of drawers
+chest of drawers,functionally coupled with,bedside table
+bedside table,physically coupled with,bed
+bed,physically coupled with,bedside table
+bedside table,physically coupled with,printed book
+printed book,physically coupled with,bedside table
+bedside table,physically coupled with,table lamp
+table lamp,physically coupled with,bedside table
+bedside table,physically coupled with,mug
+mug,physically coupled with,bedside table
+bedside table,physically coupled with,alarm clock
+alarm clock,physically coupled with,bedside table
+bedside table,has attribute,high clearance
+tray table,located in,bedroom
+tray table,located in,living room
+tray table,subclass of,table
+tray table,functionally coupled with,bedside table
+bedside table,functionally coupled with,tray table
+tray table,physically coupled with,mug
+mug,physically coupled with,tray table
+tray table,physically coupled with,alarm clock
+alarm clock,physically coupled with,tray table
+tray table,physically coupled with,floor
+floor,physically coupled with,tray table
+tray table,has attribute,moveable
+tray table,has attribute,low clearance
+table lamp,located in,bedroom
+table lamp,located in,study room
+table lamp,located in,children room
+table lamp,subclass of,lamp
+table lamp,functionally coupled with,led bulb
+led bulb,functionally coupled with,table lamp
+table lamp,functionally coupled with,ac power socket
+ac power socket,functionally coupled with,table lamp
+table lamp,physically coupled with,table
+table,physically coupled with,table lamp
+cable,part of,table lamp
+ceiling spotlight,located in,bedroom
+ceiling spotlight,located in,living room
+ceiling spotlight,located in,study room
+ceiling spotlight,located in,dining room
+ceiling spotlight,located in,children room
+ceiling spotlight,located in,bathroom
+ceiling spotlight,located in,hallway
+ceiling spotlight,subclass of,lamp
+ceiling spotlight,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,table lamp
+table lamp,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,led bulb
+led bulb,functionally coupled with,ceiling spotlight
+ceiling spotlight,physically coupled with,ceiling
+ceiling,physically coupled with,ceiling spotlight
+wall spotlight,located in,bedroom
+wall spotlight,located in,children room
+wall spotlight,subclass of,lamp
+wall spotlight,physically coupled with,wall
+wall,physically coupled with,wall spotlight
+wall spotlight,physically coupled with,bed frame
+bed frame,physically coupled with,wall spotlight
+cable,part of,wall spotlight
+room darkening curtain,located in,bedroom
+room darkening curtain,located in,children room
+room darkening curtain,subclass of,curtain
+room darkening curtain,physically coupled with,window
+window,physically coupled with,room darkening curtain
+room darkening curtain,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,room darkening curtain
+sheer curtain,located in,bedroom
+sheer curtain,located in,living room
+sheer curtain,subclass of,curtain
+sheer curtain,physically coupled with,window
+window,physically coupled with,sheer curtain
+sheer curtain,functionally coupled with,room darkening curtain
+room darkening curtain,functionally coupled with,sheer curtain
+mug,located in,bedroom
+mug,located in,kitchen
+mug,located in,dining room
+mug,subclass of,cup
+mug,physically coupled with,water
+water,physically coupled with,mug
+alarm clock,located in,bedroom
+alarm clock,located in,children room
+alarm clock,subclass of,clock
+alarm clock,functionally coupled with,smart phone
+smart phone,functionally coupled with,alarm clock
+alarm clock,functionally coupled with,wall clock
+wall clock,functionally coupled with,alarm clock
+alarm clock,functionally coupled with,battery
+battery,functionally coupled with,alarm clock
+wall clock,located in,bedroom
+wall clock,located in,living room
+wall clock,subclass of,clock
+wall clock,functionally coupled with,smart phone
+smart phone,functionally coupled with,wall clock
+wall clock,functionally coupled with,battery
+battery,functionally coupled with,wall clock
+wall clock,physically coupled with,wall
+wall,physically coupled with,wall clock
+printed book,located in,bedroom
+printed book,located in,children room
+printed book,located in,living room
+printed book,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,printed book
+printed book,functionally coupled with,table lamp
+table lamp,functionally coupled with,printed book
+printed book,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,printed book
+printed book,functionally coupled with,marker pen
+marker pen,functionally coupled with,printed book
+printed book,physically coupled with,bookcase
+bookcase,physically coupled with,printed book
+bookcase,located in,study room
+bookcase,located in,children room
+bookcase,subclass of,cabinet
+bookcase,physically coupled with,wall
+wall,physically coupled with,bookcase
+bookcase,physically coupled with,floor
+floor,physically coupled with,bookcase
+dressing table,located in,bedroom
+dressing table,subclass of,table
+dressing table,physically coupled with,wall
+wall,physically coupled with,dressing table
+dressing table,physically coupled with,floor
+floor,physically coupled with,dressing table
+dressing table,physically coupled with,table mirror
+table mirror,physically coupled with,dressing table
+dressing table,has attribute,high clearance
+stool,located in,bedroom
+stool,located in,living room
+stool,subclass of,seat
+stool,physically coupled with,dressing table
+dressing table,physically coupled with,stool
+stool,has attribute,moveable
+stool,has attribute,high clearance
+potted plant,located in,bedroom
+potted plant,located in,living room
+potted plant,subclass of,flowerpot
+potted plant,functionally coupled with,smart air purifier
+smart air purifier,functionally coupled with,potted plant
+potted plant,physically coupled with,floor
+floor,physically coupled with,potted plant
+potted plant,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,potted plant
+potted plant,physically coupled with,water
+water,physically coupled with,potted plant
+potted plant,has attribute,moveable
+trolley,located in,bedroom
+trolley,located in,bathroom
+trolley,located in,living room
+trolley,physically coupled with,floor
+floor,physically coupled with,trolley
+trolley,physically coupled with,mug
+mug,physically coupled with,trolley
+trolley,physically coupled with,potted plant
+potted plant,physically coupled with,trolley
+trolley,physically coupled with,towel
+towel,physically coupled with,trolley
+trolley,has attribute,moveable
+trolley,has attribute,low clearance
+chest of drawers,located in,bedroom
+chest of drawers,located in,children room
+chest of drawers,located in,hallway
+chest of drawers,subclass of,cabinet
+chest of drawers,physically coupled with,floor
+floor,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,wall
+wall,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,photo frame
+photo frame,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,clothes
+clothes,physically coupled with,chest of drawers
+chest of drawers,has attribute,no clearance
+wardrobe,located in,bedroom
+wardrobe,located in,children room
+wardrobe,subclass of,cabinet
+wardrobe,functionally coupled with,chest of drawers
+chest of drawers,functionally coupled with,wardrobe
+wardrobe,functionally coupled with,led bulb
+led bulb,functionally coupled with,wardrobe
+wardrobe,physically coupled with,floor
+floor,physically coupled with,wardrobe
+wardrobe,physically coupled with,wall
+wall,physically coupled with,wardrobe
+wardrobe,has attribute,no clearance
+table mirror,located in,bedroom
+table mirror,located in,bathroom
+table mirror,subclass of,mirror
+table mirror,functionally coupled with,table lamp
+table lamp,functionally coupled with,table mirror
+table mirror,has attribute,fragile
+tbale mirror,has attribute,moveable
+standing mirror,located in,bedroom
+standing mirror,located in,hallway
+standing mirror,subclass of,mirror
+standing mirror,physically coupled with,floor
+floor,physically coupled with,standing mirror
+standing mirror,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,standing mirror
+standing mirror,functionally coupled with,smart phone
+smart phone,functionally coupled with,standing mirror
+standing mirror,has attribute,moveable
+standing mirror,has attribute,fragile
+decoration vase,located in,bedroom
+decoration vase,subclass of,vase
+decoration vase,physically coupled with,floor
+floor,physically coupled with,decoration vase
+decoration vase,has attribute,fragile
+decoration vase,has attribute,moveable
+glass vase,located in,bedroom
+glass vase,located in,living room
+glass vase,located in,hallway
+glass vase,subclass of,vase
+glass vase,has attribute,fragile
+glass vase,has attribute,moveable
+glass vase,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,glass vase
+low pile rug,located in,bedroom
+low pile rug,located in,living room
+low pile rug,subclass of,rug
+low pile rug,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,low pile rug
+low pile rug,physically coupled with,floor
+floor,physically coupled with,low pile rug
+low pile rug,has attribute,low pile
+low pile rug,material,polypropylene
+ceiling fan,located in,bedroom
+ceiling fan,located in,living room
+ceiling fan,subclass of,fan appliance
+ceiling fan,functionally coupled with,ac power socket
+ac power socket,functionally coupled with,ceiling fan
+ceiling fan,physically coupled with,ceiling
+ceiling,physically coupled with,ceiling fan
+loft bed,located in,children room
+loft bed,subclass of,bed
+loft bed,physically coupled with,wall
+wall,physically coupled with,loft bed
+loft bed,physically coupled with,floor
+floor,physically coupled with,loft bed
+loft bed,functionally coupled with,mattress
+mattress,functionally coupled with,loft bed
+bed tent,located in,children room
+bed tent,subclass of,tent
+bed tent,functionally coupled with,loft bed
+loft bed,functionally coupled with,bed tent
+bed tent,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,bed tent
+children table lamp,located in,children room
+children table lamp,subclass of,table lamp
+children table lamp,physically coupled with,study desk
+study desk,physically coupled with,children table lamp
+children table lamp,functionally coupled with,led bulb
+led bulb,functionally coupled with,children table lamp
+cable,part of,children table lamp
+wall lamp,located in,children room
+wall lamp,located in,bathroom
+wall lamp,subclass of,lamp
+wall lamp,physically coupled with,wall
+wall,physically coupled with,wall lamp
+wall lamp,functionally coupled with,led bulb
+led bulb,functionally coupled with,wall lamp
+wall lamp,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,wall lamp
+cot,located in,children room
+cot,located in,bedroom
+cot,subclass of,bed
+cot,physically coupled with,floor
+floor,physically coupled with,cot
+cot,physically coupled with,wall
+wall,physically coupled with,cot
+cot,functionally coupled with,mattress
+mattress,functionally coupled with,cot
+cot,has attribute,low clearance
+cot,interactive with,baby
+high pile rug,located in,bedroom
+high pile rug,subclass of,rug
+high pile rug,physically coupled with,floor
+floor,physically coupled with,high pile rug
+high pile rug,has attribute,high pile
+high pile rug,material,polypropylene
+blackboard,located in,children room
+blackboard,subclass of,writing implement
+blackboard,physically coupled with,floor
+floor,physically coupled with,blackboard
+blackboard,physically coupled with,paper
+paper,physically coupled with,blackboard
+blackboard,physically coupled with,marker pen
+marker pen,physically coupled with,blackboard
+blackboard,has attribute,moverable
+blackboard,has attribute,high clearance
+nursery rug,located in,children room
+nursery rug,subclass of,rug
+nursery rug,physically coupled with,floor
+floor,physically coupled with,nursery rug
+nursery rug,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,nursery rug
+nursery rug,has attribute,low pile
+nursery curtains,located in,children room
+nursery curtains,subclass of,curtain
+nursery curtains,physically coupled with,window
+window,physically coupled with,nursery curtains
+nursery curtains,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,nursery curtains
+freestanding basket,located in,children room
+freestanding basket,subclass of,basket
+freestanding basket,physically coupled with,doll
+doll,physically coupled with,freestanding basket
+freestanding basket,physically coupled with,floor
+floor,physically coupled with,freestanding basket
+freestanding basket,has attribute,moverable
+study desk,located in,children room
+study desk,subclass of,desk
+study desk,physically coupled with,floor
+floor,physically coupled with,study desk
+study desk,physically coupled with,printed book
+printed book,physically coupled with,study desk
+study desk,has attribute,high clearance
+work lamp,located in,children room
+work lamp,located in,study room
+work lamp,subclass of,lamp
+work lamp,physically coupled with,study desk
+study desk,physically coupled with,work lamp
+work lamp,functionally coupled with,led bulb
+led bulb,functionally coupled with,work lamp
+cable,part of,work lamp
+work lamp,has attribute,moverable
+pedal bin,located in,children room
+pedal bin,located in,study room
+pedal bin,located in,bathroom
+pedal bin,subclass of,waste container
+pedal bin,physically coupled with,study desk
+study desk,physically coupled with,pedal bin
+pedal bin,physically coupled with,floor
+floor,physically coupled with,pedal bin
+pedal bin,has attribute,moverable
+storage box,subclass of,box
+storage box,located in,children room
+storage box,physically coupled with,lego set
+lego set,physically coupled with,storage box
+storage box,physically coupled with,floor
+floor,physically coupled with,storage box
+storage box,functionally coupled with,storage combination
+storage combination,functionally coupled with,storage box
+storage box,material,plastic
+storage box,has attribute,moverable
+lego set,located in,children room
+lego set,located in,bedroom
+lego set,located in,living room
+lego set,subclass of,construction set
+lego set,subclass of,toy
+lego set,physically coupled with,floor
+floor,physically coupled with,lego set
+lego set,physically coupled with,nursery rug
+nursery rug,physically coupled with,lego set
+lego set,physically coupled with,mattress
+mattress,physically coupled with,lego set
+lego set,has attribute,moverable
+lego set,material,plastic
+storage combination,located in,children room
+storage combination,subclass of,storage
+storage combination,physically coupled with,floor
+floor,physically coupled with,storage combination
+storage combination,physically coupled with,wall
+wall,physically coupled with,storage combination
+children's desk chair,located in,children room
+children's desk chair,subclass of,chair
+children's desk chair,physically coupled with,floor
+floor,physically coupled with,children's desk chair
+children's desk chair,functionally coupled with,study desk
+study desk,functionally coupled with,children's desk chair
+children's desk chair,has attribute,moveable
+children's desk chair,has attribute,low clearance
+children's stool,located in,children room
+children's stool,subclass of,seat
+children's stool,physically coupled with,floor
+floor,physically coupled with,children's stool
+children's stool,has attribute,moveable
+children's stool,has attribute,low clearance
+children's stool,material,plastic
+step stool,located in,children room
+step stool,located in,bathroom
+step stool,subclass of,seat
+step stool,physically coupled with,floor
+floor,physically coupled with,step stool
+step stool,physically coupled with,bath mat
+bath mat,physically coupled with,step stool
+step stool,has attribute,moverable
+step stool,has attribute,low clearance
+step stool,material,plastic
+children's armchair,located in,children room
+children's armchair,subclass of,chair
+children's armchair,physically coupled with,floor
+floor,physically coupled with,children's armchair
+children's armchair,has attribute,high clearance
+folding gym mat,located in,children room
+folding gym mat,located in,bedroom
+folding gym mat,subclass of,mat
+folding gym mat,physically coupled with,floor
+floor,physically coupled with,folding gym mat
+folding gym mat,has attribute,moveable
+folding gym mat,material,polyester
+picture frame,located in,bedroom
+picture frame,located in,children room
+picture frame,located in,hallway
+picture frame,physically coupled with,wall
+wall,physically coupled with,picture frame
+stuffed toy,located in,children room
+stuffed toy,subclass of,comfort object
+stuffed toy,subclass of,toy
+stuffed toy,physically coupled with,floor
+floor,physically coupled with,stuffed toy
+stuffed toy,physically coupled with,nursery rug
+nursery rug,physically coupled with,stuffed toy
+stuffed toy,physically coupled with,mattress
+mattress,physically coupled with,stuffed toy
+stuffed toy,has attribute,moverable
+stuffed toy,functionally coupled with,washing machine
+washing machine,functionally coupled with,stuffed toy
+stuffed toy,functionally coupled with,dryer
+dryer,functionally coupled with,stuffed toy
+book box,located in,children room
+book box,subclass of,box
+book box,physically coupled with,printed book
+printed book,physically coupled with,book box
+book box,physically coupled with,floor
+floor,physically coupled with,book box
+storage bag,located in,children room
+storage bag,subclass of,bag
+storage bag,physically coupled with,floor
+floor,physically coupled with,storage bag
+storage bag,physically coupled with,stuffed toy
+stuffed toy,physically coupled with,storage bag
+storage bag,has attribute,moverable
+ipad,located in,bedroom
+ipad,located in,bathroom
+ipad,located in,children room
+ipad,located in,living room
+ipad,located in,kitchen
+ipad,subclass of,tablet computer
+ipad,physically coupled with,bedside table
+bedside table,physically coupled with,ipad
+ipad,physically coupled with,dressing table
+dressing table,physically coupled with,ipad
+ipad,physically coupled with,washstand
+washstand,physically coupled with,ipad
+ipad,physically coupled with,study desk
+study desk,physically coupled with,ipad
+ipad,functionally coupled with,usb charger
+usb charger,functionally coupled with,ipad
+ipad,functionally coupled with,smart phone
+smart phone,functionally coupled with,ipad
+ipad,functionally coupled with,wifi router
+wifi router,functionally coupled with,ipad
+ipad,functionally coupled with,smart speaker
+smart speaker,functionally coupled with,ipad
+ipad,functionally coupled with,smart e-book reader
+smart e-book reader,functionally coupled with,ipad
+ipad,functionally coupled with,battery
+battery,functionally coupled with,ipad
+cable,part of,usb charger
+usb charger,functionally coupled with,smart meter
+smart meter,functionally coupled with,usb charger
+smart phone,located in,bedroom
+smart phone,located in,bathroom
+smart phone,located in,children room
+smart phone,located in,living room
+smart phone,located in,kitchen
+smart phone,located in,hallway
+smart phone,physically coupled with,bedside table
+bedside table,physically coupled with,smart phone
+smart phone,physically coupled with,dressing table
+dressing table,physically coupled with,smart phone
+smart phone,physically coupled with,washstand
+washstand,physically coupled with,smart phone
+smart phone,physically coupled with,study desk
+study desk,physically coupled with,smart phone
+smart phone,physically coupled with,bed
+bed,physically coupled with,smart phone
+smart phone,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,smart phone
+smart phone,functionally coupled with,usb charger
+usb charger,functionally coupled with,smart phone
+smart phone,functionally coupled with,wifi router
+wifi router,functionally coupled with,smart phone
+smart phone,functionally coupled with,kindle
+kindle,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart speaker
+smart speaker,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart phone
+smart blinds,located in,bedroom
+smart blinds,located in,children room
+smart blinds,located in,living room
+smart blinds,physically coupled with,window
+window,physically coupled with,smart blinds
+smart blinds,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart blinds
+cable,part of,smart blinds
+smart curtain,located in,bedroom
+smart curtain,located in,children room
+smart curtain,located in,living room
+smart curtain,physically coupled with,window
+window,physically coupled with,smart curtain
+smart curtain,functionally coupled with,smart curtain
+smart curtain,functionally coupled with,smart curtain
+smart curtain,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart curtain
+smart curtain,functionally coupled with,room darkening curtain
+room darkening curtain,functionally coupled with,smart curtain
+smart curtain,functionally coupled with,sheer curtain
+sheer curtain,functionally coupled with,smart curtain
+cable,part of,smart curtain
+smart curtain,functionally coupled with,smart meter
+smart meter,functionally coupled with,smart curtain
+smart frame,located in,bedroom
+smart frame,located in,children room
+smart frame,located in,living room
+smart frame,located in,hallway
+smart frame,subclass of,picture frame
+smart frame,physically coupled with,wall
+wall,physically coupled with,smart frame
+smart frame,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,smart frame
+smart frame,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart frame
+cable,part of,smart frame
+cable,functionally coupled with,smart meter
+smart meter,functionally coupled with,cable
+kindle,located in,bedroom
+kindle,located in,study room
+kindle,subclass of,e-book reader
+kindle,physically coupled with,study desk
+study desk,physically coupled with,kindle
+kindle,physically coupled with,bedside table
+bedside table,physically coupled with,kindle
+kindle,physically coupled with,memory foam mattress
+memory foam mattress,physically coupled with,kindle
+kindle,functionally coupled with,alarm clock
+alarm clock,functionally coupled with,kindle
+kindle,functionally coupled with,table lamp
+table lamp,functionally coupled with,kindle
+kindle,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,kindle
+smart clock,located in,bedroom
+smart clock,located in,children room
+smart clock,subclass of,clock
+smart clock,physically coupled with,bedside table
+bedside table,physically coupled with,smart clock
+smart clock,physically coupled with,study desk
+study desk,physically coupled with,smart clock
+smart clock,functionally coupled with,alarm clock
+alarm clock,functionally coupled with,smart clock
+smart clock,functionally coupled with,wall clock
+wall clock,functionally coupled with,smart clock
+smart clock,functionally coupled with,battery
+battery,functionally coupled with,smart clock
+smart air purifier,located in,bedroom
+smart air purifier,located in,living room
+smart air purifier,located in,children room
+smart air purifier,subclass of,air purifier
+smart air purifier,physically coupled with,floor
+floor,physically coupled with,smart air purifier
+smart air purifier,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,smart air purifier
+smart air purifier,functionally coupled with,wifi router
+wifi router,functionally coupled with,smart air purifier
+smart air purifier,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart air purifier
+smart air purifier,has attribute,moveable
+cable,part of,smart air purifier
+smart air conditioner,located in,bedroom
+smart air conditioner,located in,living room
+smart air conditioner,subclass of,air conditioner
+smart air conditioner,physically coupled with,wall
+wall,physically coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,ceiling fan
+ceiling fan,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,wifi router
+wifi router,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart meter
+smart meter,functionally coupled with,smart air conditioner
+cable,part of,smart air conditioner
+air quality sensor,located in,bedroom
+air quality sensor,located in,living room
+air quality sensor,located in,children room
+air quality sensor,subclass of,sensor
+air quality sensor,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,air quality sensor
+air quality sensor,functionally coupled with,battery
+battery,functionally coupled with,air quality sensor
+smart scale,located in,bathroom
+smart scale,subclass of,scale
+smart scale,physically coupled with,floor
+floor,physically coupled with,smart scale
+smart scale,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart scale
+smart scale,functionally coupled with,battery
+battery,functionally coupled with,smart scale
+smart led bulb,located in,bedroom
+smart led bulb,located in,bathroom
+smart led bulb,located in,living room
+smart led bulb,located in,hallway
+smart led bulb,located in,children room
+smart led bulb,subclass of,light bulb
+smart led bulb,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,wi-fi router
+wi-fi router,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart meter
+smart meter,functionally coupled with,smart led bulb
+smart toothbrush,located in,bathroom
+smart toothbrush,subclass of,toothbrush
+smart toothbrush,physically coupled with,washstand
+washstand,physically coupled with,smart toothbrush
+smart toothbrush,functionally coupled with,makeup mirror
+makeup mirror,functionally coupled with,smart toothbrush
+smart toothbrush,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart toothbrush
+smart toothbrush,functionally coupled with,battery
+battery,functionally coupled with,smart toothbrush
+smart toilet seat,located in,bathroom
+smart toilet seat,subclass of,toilet seat
+smart toilet seat,physically coupled with,toilet
+toilet,physically coupled with,smart toilet seat
+smart toilet seat,functionally coupled with,wifi router
+wifi router,functionally coupled with,smart toilet seat
+smart speaker,located in,bedroom
+smart speaker,located in,living room
+smart speaker,located in,children room
+smart speaker,located in,kitchen
+smart speaker,subclass of,smart device
+smart speaker,subclass of,loudspeaker
+smart speaker,physically coupled with,study desk
+study desk,physically coupled with,smart speaker
+smart speaker,physically coupled with,chest of drawers
+chest of drawers,physically coupled with,smart speaker
+smart speaker,physically coupled with,dining table
+dining table,physically coupled with,smart speaker
+smart speaker,physically coupled with,bedside table
+bedside table,physically coupled with,smart speaker
+smart speaker,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart speaker
+cable,part of,smart speaker
+children smart watch,located in,children room
+children smart watch,subclass of,wristwatch
+children smart watch,subclass of,wearable technology
+children smart watch,physically coupled with,bedside table
+bedside table,physically coupled with,children smart watch
+children smart watch,physically coupled with,study desk
+study desk,physically coupled with,children smart watch
+children smart watch,functionally coupled with,smart phone
+smart phone,functionally coupled with,children smart watch
+children smart watch,functionally coupled with,wifi router
+wifi router,functionally coupled with,children smart watch
+smart tv,located in,bedroom
+smart tv,located in,living room
+smart tv,subclass of,television set
+smart tv,physically coupled with,tv cabinet
+tv cabinet,physically coupled with,smart tv
+smart tv,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart tv
+smart tv,functionally coupled with,ipad
+ipad,functionally coupled with,smart tv
+smart tv,functionally coupled with,smart meter
+smart meter,functionally coupled with,smart tv
+cable,part of,smart tv
+smart projector,located in,bedroom
+smart projector,located in,living room
+smart projector,physically coupled with,tv cabinet
+tv cabinet,physically coupled with,smart projector
+smart projector,physically coupled with,ceiling
+ceiling,physically coupled with,smart projector
+smart projector,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart projector
+smart projector,functionally coupled with,wifi router
+wifi router,functionally coupled with,smart projector
+smart projector,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart projector
+smart projector,functionally coupled with,smart meter
+smart meter,functionally coupled with,smart projector
+smart projector,functionally coupled with,wall
+wall,functionally coupled with,smart projector
+cable,part of,smart projector
+smart baby monitor,located in,children room
+smart baby monitor,subclass of,monitor
+smart baby monitor,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart baby monitor
+smart baby monitor,functionally coupled with,smart meter
+smart meter,functionally coupled with,smart baby monitor
+cable,part of,smart baby monitor
+smart meter,subclass of,electricity meter
+smart meter,subclass of,smart device
+smart glass,located in,bedroom
+smart glass,located in,living room
+smart glass,located in,children room
+smart glass,located in,bathroom
+smart glass,located in,study room
+smart glass,subclass of,glass
+smart glass,physically coupled with,window
+window,physically coupled with,smart glass
+smart glass,physically coupled with,wall
+wall,physically coupled with,smart glass
+smart glass,functionally coupled with,smart curtain
+smart curtain,functionally coupled with,smart glass
+smart glass,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart glass
+smart glass,functionally coupled with,smart led bulb
+smart led bulb,functionally coupled with,smart glass
+smartglasses,located in,bedroom
+smartglasses,subclass of,wearable computer
+smartglasses,subclass of,eyeglasses
+smartglasses,physically coupled with,bedside table
+bedside table,physically coupled with,smartglasses
+smartglasses,functionally coupled with,usb charger
+usb charger,functionally coupled with,smartglasses
+smartglasses,functionally coupled with,wifi router
+wifi router,functionally coupled with,smartglasses
+smartglasses,functionally coupled with,smart phone
+smart phone,functionally coupled with,smartglasses
+smartglasses,functionally coupled with,smart speaker
+smart speaker,functionally coupled with,smartglasses
+corner wall shelf,located in,bathroom
+corner wall shelf,subclass of,shelf
+corner wall shelf,physically coupled with,wall
+wall,physically coupled with,corner wall shelf
+corner wall shelf,physically coupled with,shampoo
+shampoo,physically coupled with,corner wall shelf
+corner wall shelf,physically coupled with,soap
+soap,physically coupled with,corner wall shelf
+shower curtain,located in,bathroom
+shower curtain,subclass of,curtain
+shower curtain,physically coupled with,wall
+wall,physically coupled with,shower curtain
+shower curtain,physically coupled with,floor
+floor,physically coupled with,shower curtain
+shower curtain,physically coupled with,water
+water,physically coupled with,shower curtain
+bath towel,located in,bathroom
+bath towel,subclass of,towel
+bath towel,physically coupled with,towel rack
+towel rack,physically coupled with,bath towel
+bath towel,material,cotton
+towel rack,located in,bathroom
+towel rack,located in,kitchen
+towel rack,subclass of,furniture
+towel rack,physically coupled with,wall
+wall,physically coupled with,towel rack
+wash basin,located in,bathroom
+wash basin,subclass of,container
+wash basin,physically coupled with,wash-basin cabinet
+wash-basin cabinet,physically coupled with,wash basin
+wash basin,physically coupled with,water
+water,physically coupled with,wash basin
+wash-basin cabinet,located in,bathroom
+wash-basin cabinet,subclass of,cabinet
+wash-basin cabinet,functionally coupled with,wash basin
+wash basin,functionally coupled with,wash-basin cabinet
+wash-basin cabinet,physically coupled with,wall
+wall,physically coupled with,wash-basin cabinet
+wash-basin cabinet,has attribute,low clearance
+washstand,located in,bathroom
+washstand,subclass of,furniture
+washstand,physically coupled with,wall
+wall,physically coupled with,washstand
+washstand,physically coupled with,toothbrush
+toothbrush,physically coupled with,washstand
+washstand,physically coupled with,soap
+soap,physically coupled with,washstand
+toilet roll holder,located in,bathroom
+toilet roll holder,subclass of,holder
+toilet roll holder,physically coupled with,wall
+wall,physically coupled with,toilet roll holder
+toilet roll holder,functionally coupled with,toiler roll
+toiler roll,functionally coupled with,toilet roll holder
+baby bath,located in,bathroom
+baby bath,physically coupled with,floor
+floor,physically coupled with,baby bath
+baby bath,physically coupled with,water
+water,physically coupled with,baby bath
+baby bath,has attribute,moveable
+baby bath,interactive with,baby
+makeup mirror,located in,bathroom
+makeup mirror,located in,bedroom
+makeup mirror,subclass of,mirror
+makeup mirror,physically coupled with,washstand
+washstand,physically coupled with,makeup mirror
+makeup mirror,functionally coupled with,led bulb
+led bulb,functionally coupled with,makeup mirror
+cable,part of,makeup mirror
+makeup mirror,has attribute,fragile
+mirror with integrated lighting,located in,bathroom
+mirror with integrated lighting,located in,bedroom
+mirror with integrated lighting,located in,hallway
+mirror with integrated lighting,physically coupled with,wall
+wall,physically coupled with,mirror with integrated lighting
+mirror with integrated lighting,functionally coupled with,led bulb
+led bulb,functionally coupled with,mirror with integrated lighting
+mirror with integrated lighting,functionally coupled with,smart phone
+smart phone,functionally coupled with,mirror with integrated lighting
+cable,part of,mirror with integrated lighting
+mirror with integrated lighting,has attribute,fragile
+cable,part of,wall lamp
+shower head,located in,bathroom
+shower head,part of,shower
+shower head,functionally coupled with,hot water heater
+hot water heater,functionally coupled with,shower head
+shower head,physically coupled with,wall
+wall,physically coupled with,shower head
+shower head,physically coupled with,water
+water,physically coupled with,shower head
+hand shower,located in,bathroom
+hand shower,part of,shower
+hand shower,functionally coupled with,hot water heater
+hot water heater,functionally coupled with,hand shower
+hand shower,physically coupled with,wall
+wall,physically coupled with,hand shower
+hand shower,physically coupled with,water
+water,physically coupled with,hand shower
+hand shower,has attribute,moveable
+shower mixer,located in,bathroom
+shower mixer,part of,shower
+shower mixer,functionally coupled with,hot water heater
+hot water heater,functionally coupled with,shower mixer
+shower mixer,physically coupled with,wall
+wall,physically coupled with,shower mixer
+shower mixer,physically coupled with,water
+water,physically coupled with,shower mixer
+wall cabinet,located in,bathroom
+wall cabinet,subclass of,cabinet
+wall cabinet,physically coupled with,wall
+wall,physically coupled with,wall cabinet
+toilet brush,located in,bathroom
+toilet brush,subclass of,brush
+toilet brush,physically coupled with,toilet
+toilet,physically coupled with,toilet brush
+toilet brush,physically coupled with,floor
+floor,physically coupled with,toilet brush
+toilet brush,has attribute,moveable
+toilet brush,material,plastic
+toilet brush,physically coupled with,water
+water,physically coupled with,toilet brush
+bristle,part of,toilet brush
+bristle,part of,smart toothbrush
+toothbrush holder,located in,bathroom
+toothbrush holder,subclass of,cup
+toothbrush holder,physically coupled with,washstand
+washstand,physically coupled with,toothbrush holder
+toothbrush holder,physically coupled with,water
+water,physically coupled with,toothbrush holder
+toothbrush holder,physically coupled with,smart toothbrush
+smart toothbrush,physically coupled with,toothbrush holder
+toilet training seat,located in,bathroom
+toilet training seat,physically coupled with,toilet
+toilet,physically coupled with,toilet training seat
+toilet training seat,physically coupled with,floor
+floor,physically coupled with,toilet training seat
+toilet training seat,physically coupled with,water
+water,physically coupled with,toilet training seat
+toilet training seat,has attribute,moveable
+toilet training seat,material,plastic
+toilet training seat,interactive with,children
+bath mat,located in,bathroom
+bath mat,subclass of,mat
+bath mat,physically coupled with,floor
+floor,physically coupled with,bath mat
+bath mat,has attribute,moveable
+bath mat,material,cotton
+slippers,located in,bathroom
+slippers,located in,bedroom
+slippers,located in,kitchen
+slippers,located in,living room
+slippers,physically coupled with,floor
+floor,physically coupled with,slippers
+slippers,physically coupled with,water
+water,physically coupled with,slippers
+slippers,has attribute,moveable
+slippers,material,polyester
+toilet,located in,bathroom
+toilet,subclass of,plumbing fixture
+toilet,physically coupled with,floor
+floor,physically coupled with,toilet
+toilet,physically coupled with,wall
+wall,physically coupled with,toilet
+drying rack,subclass of,furniture
+drying rack,located in,laundry room
+drying rack,physically coupled with,floor
+floor,physically coupled with,drying rack
+drying rack,physically coupled with,clothes
+clothes,physically coupled with,drying rack
+drying rack,has attribute,moveable
+drying rack,has attribute,low clearance
+drying rack,physically coupled with,water
+water,physically coupled with,drying rack
+ironing board,located in,laundry room
+ironing board,subclass of,tool
+ironing board,physically coupled with,floor
+floor,physically coupled with,ironing board
+ironing board,physically coupled with,clothes
+clothes,physically coupled with,ironing board
+ironing board,has attribute,moveable
+ironing board,has attribute,low clearance
+dustpan,located in,laundry room
+dustpan,located in,kitchen
+dustpan,subclass of,cleaning tool
+dustpan,subclass of,waste container
+dustpan,physically coupled with,floor
+floor,physically coupled with,dustpan
+dustpan,functionally coupled with,broom
+broom,functionally coupled with,dustpan
+dustpan,has attribute,moveable
+broom,subclass of,cleaning tool
+broom,located in,laundry room
+broom,located in,kitchen
+broom,physically coupled with,floor
+floor,physically coupled with,broom
+laundry basket,located in,bathroom
+laundry basket,located in,laundry room
+laundry basket,subclass of,basket
+laundry basket,physically coupled with,towel
+towel,physically coupled with,laundry basket
+laundry basket,physically coupled with,clothes
+clothes,physically coupled with,laundry basket
+laundry basket,physically coupled with,floor
+floor,physically coupled with,laundry basket
+laundry basket,has attribute,moveable
+laundry basket,material,rattan
+floor lamp,located in,hallway
+floor lamp,located in,living room
+floor lamp,subclass of,lamp
+floor lamp,functionally coupled with,led bulb
+led bulb,functionally coupled with,floor lamp
+floor lamp,physically coupled with,floor
+floor,physically coupled with,floor lamp
+floor lamp,has attribute,moveable
+floor lamp,has attribute,high clearance
+cable,part of,floor lamp
+cable,subclass of,power cable
+cable,subclass of,cable
+shoe rack,located in,hallway
+shoe rack,subclass of,furniture
+shoe rack,physically coupled with,shoe
+shoe,physically coupled with,shoe rack
+shoe rack,physically coupled with,floor
+floor,physically coupled with,shoe rack
+shoe rack,has attribute,low clearance
+shoe rack,has attribute,moveable
+shoelace,part of,shoe
+shoelace,subclass of,cable
+shoe cabinet,located in,hallway
+shoe cabinet,subclass of,cabinet
+shoe cabinet,physically coupled with,wall
+wall,physically coupled with,shoe cabinet
+shoe cabinet,physically coupled with,shoe
+shoe,physically coupled with,shoe cabinet
+door mat,located in,hallway
+door mat,subclass of,mat
+door mat,physically coupled with,floor
+floor,physically coupled with,door mat
+door mat,physically coupled with,door
+door,physically coupled with,door mat
+door mat,physically coupled with,shoe
+shoe,physically coupled with,door mat
+door mat,material,coir
+wall mirror,located in,hallway
+wall mirror,subclass of,mirror
+wall mirror,physically coupled with,wall
+wall,physically coupled with,wall mirror
+wall mirror,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,wall mirror
+wall mirror,functionally coupled with,smart phone
+smart phone,functionally coupled with,wall mirror
+wall mirror,has attribute,fragile
+wall rack,located in,hallway
+wall rack,subclass of,furniture
+wall rack,physically coupled with,clothes
+clothes,physically coupled with,wall rack
+wall rack,physically coupled with,wall
+wall,physically coupled with,wall rack
+hook,located in,hallway
+hook,subclass of,fastener
+hook,physically coupled with,wall
+wall,physically coupled with,hook
+hook,physically coupled with,clothes
+clothes,physically coupled with,hook
+shoehorn,located in,hallway
+shoehorn,subclass of,tool
+shoehorn,functionally coupled with,shoe
+shoe,functionally coupled with,shoehorn
+pegboard,located in,hallway
+pegboard,located in,bathroom
+pegboard,subclass of,wall covering
+pegboard,physically coupled with,wall
+wall,physically coupled with,pegboard
+pegboard,physically coupled with,clothes
+clothes,physically coupled with,pegboard
+pegboard,physically coupled with,bag
+bag,physically coupled with,pegboard
+carrier bag,located in,hallway
+carrier bag,subclass of,bag
+carrier bag,physically coupled with,floor
+floor,physically coupled with,carrier bag
+carrier bag,physically coupled with,towel
+towel,physically coupled with,carrier bag
+carrier bag,physically coupled with,litter
+litter,physically coupled with,carrier bag
+carrier bag,has attribute,moveable
+flatweave,located in,hallway
+flatweave,subclass of,carpet
+flatweave,physically coupled with,wall
+wall,physically coupled with,flatweave
+flatweave,physically coupled with,shoe
+shoe,physically coupled with,flatweave
+flatweave,material,jute
+coat stand,subclass of,furniture
+coat stand,physically coupled with,clothes
+clothes,physically coupled with,coat stand
+coat stand,physically coupled with,floor
+floor,physically coupled with,coat stand
+coat stand,has attribute,moveable
+coat stand,has attribute,high clearance
+sofa bed,located in,living room
+sofa bed,subclass of,couch
+sofa bed,subclass of,bed
+sofa bed,functionally coupled with,mattress
+mattress,functionally coupled with,sofa bed
+sofa bed,functionally coupled with,footstool
+footstool,functionally coupled with,sofa bed
+sofa bed,functionally coupled with,armchair
+armchair,functionally coupled with,sofa bed
+sofa bed,functionally coupled with,cabinet
+cabinet,functionally coupled with,sofa bed
+sofa bed,physically coupled with,floor
+floor,physically coupled with,sofa bed
+sofa bed,physically coupled with,cushion
+cushion,physically coupled with,sofa bed
+sofa bed,has attribute,low clearance
+sofa bed,material,polyster
+sofa bed,material,solidwood
+sofa bed,material,plywood
+modular sofa,located in,living room
+modular sofa,subclass of,couch
+modular sofa,functionally coupled with,armchair
+armchair,functionally coupled with,modular sofa
+modular sofa,functionally coupled with,footstool
+footstool,functionally coupled with,modular sofa
+modular sofa,physically coupled with,floor
+floor,physically coupled with,modular sofa
+modular sofa,physically coupled with,cushion
+cushion,physically coupled with,modular sofa
+modular sofa,has attribute,medium clearance
+modular sofa,material,polyster wadding
+modular sofa,material,polyurethane foam
+modular sofa,material,cotton
+footstool,located in,living room
+footstool,subclass of,stool
+footstool,functionally coupled with,cabinet
+cabinet,functionally coupled with,footstool
+footstool,functionally coupled with,armchair
+armchair,functionally coupled with,footstool
+footstool,functionally coupled with,pouffe
+pouffe,functionally coupled with,footstool
+footstool,physically coupled with,floor
+floor,physically coupled with,footstool
+footstool,physically coupled with,satchel
+satchel,physically coupled with,footstool
+footstool,physically coupled with,smart phone
+smart phone,physically coupled with,footstool
+footstool,physically coupled with,nursery rug
+nursery rug,physically coupled with,footstool
+footstool,has attribute,medium clearance
+footstool,material,polyurethane foam
+footstool,material,plywood
+footstool,material,polyster wadding
+pouffe,located in,living room
+pouffe,subclass of,seat
+pouffe,functionally coupled with,armchair
+armchair,functionally coupled with,pouffe
+pouffe,physically coupled with,floor
+floor,physically coupled with,pouffe
+pouffe,physically coupled with,nursery rug
+nursery rug,physically coupled with,pouffe
+pouffe,has attribute,movable
+pouffe,material,polyurethane foam
+pouffe,material,polyester
+sofa cover,located in,living room
+sofa cover,subclass of,slipcover
+sofacover,part of,chaise longue
+sofa cover,part of,couch
+sofa cover,physically coupled with,smart phone
+smart phone,physically coupled with,sofa cover
+sofa cover,physically coupled with,kindle
+kindle,physically coupled with,sofa cover
+sofa cover,physically coupled with,satchel
+satchel,physically coupled with,sofa cover
+sofa cover,material,polyster
+armrest,located in,living room
+armrest,part of,armchair
+armrest,part of,couch
+armrest,functionally coupled with,cushion
+cushion,functionally coupled with,armrest
+armrest,physically coupled with,sofa cover
+sofa cover,physically coupled with,armrest
+armrest,physically coupled with,armchair
+armchair,physically coupled with,armrest
+armrest,physically coupled with,smart phone
+smart phone,physically coupled with,armrest
+armrest,physically coupled with,mug
+mug,physically coupled with,armrest
+armrest,material,cotton
+armrest,material,bamboo
+neck support,located in,living room
+neck support,part of,couch
+neck support,part of,chaise longue
+neck support,functionally coupled with,cushion
+cushion,functionally coupled with,neck support
+neck support,physically coupled with,sofa cover
+sofa cover,physically coupled with,neck support
+neck support,material,plywood
+neck support,material,steel
+neck support,material,cotton
+neck support,material,polyester
+chaise longue,located in,living room
+chaise longue,subclass of,chair
+chaise longue,functionally coupled with,couch
+couch,functionally coupled with,chaise longue
+chaise longue,functionally coupled with,footstool
+footstool,functionally coupled with,chaise longue
+chaise longue,functionally coupled with,pouffe
+pouffe,functionally coupled with,chaise longue
+chaise longue,functionally coupled with,mattress
+mattress,functionally coupled with,chaise longue
+chaise longue,functionally coupled with,cabinet
+cabinet,functionally coupled with,chaise longue
+chaise longue,functionally coupled with,armchair
+armchair,functionally coupled with,chaise longue
+chaise longue,functionally coupled with,armrest
+armrest,functionally coupled with,chaise longue
+chaise longue,physically coupled with,floor
+floor,physically coupled with,chaise longue
+chaise longue,physically coupled with,cushion
+cushion,physically coupled with,chaise longue
+chaise longue,material,solidwood
+chaise longue,material,steel
+chaise longue,material,polypropylene plastic
+armchair,located in,living room
+armchair,functionally coupled with,matress
+matress,functionally coupled with,armchair
+armchair,physically coupled with,printed book
+printed book,physically coupled with,armchair
+armchair,physically coupled with,nursery rug
+nursery rug,physically coupled with,armchair
+armchair,physically coupled with,floor
+floor,physically coupled with,armchair
+armchair,physically coupled with,cushion
+cushion,physically coupled with,armchair
+armchair,has attribute,high clearance
+armchair,has attribute,movable
+armchair,material,steel
+armchair,material,solidwood
+armchair,material,polyurethane foam
+armchair,material,polyester
+armchair,material,viscose
+cabinet,located in,living room
+cabinet,functionally coupled with,shelving units
+shelving units,functionally coupled with,cabinet
+cabinet,functionally coupled with,clothes rack
+clothes rack,functionally coupled with,cabinet
+cabinet,physically coupled with,printed book
+printed book,physically coupled with,cabinet
+cabinet,physically coupled with,floor
+floor,physically coupled with,cabinet
+cabinet,physically coupled with,wall
+wall,physically coupled with,cabinet
+cabinet,physically coupled with,smart charging board
+smart charging board,physically coupled with,cabinet
+cabinet,physically coupled with,magzine files
+magzine files,physically coupled with,cabinet
+cabinet,material,particleboard
+cabinet,material,melamine foil
+cabinet,material,plastic
+shelving units,located in,living room
+shelving units,functionally coupled with,footstool
+footstool,functionally coupled with,shelving units
+shelving units,functionally coupled with,wall
+wall,functionally coupled with,shelving units
+shelving units,physically coupled with,floor
+floor,physically coupled with,shelving units
+shelving units,physically coupled with,magzine files
+magzine files,physically coupled with,shelving units
+shelving units,physically coupled with,potted plant
+potted plant,physically coupled with,shelving units
+shelving units,physically coupled with,printed book
+printed book,physically coupled with,shelving units
+shelving units,physically coupled with,air humidifier
+air humidifier,physically coupled with,shelving units
+shelving units,physically coupled with,ornament
+ornament,physically coupled with,shelving units
+shelving units,material,steel
+shelving units,material,solid pine
+side board,located in,living room
+side board,functionally coupled with,shelving units
+shelving units,functionally coupled with,side board
+side board,functionally coupled with,cabinet
+cabinet,functionally coupled with,side board
+side board,physically coupled with,plate
+plate,physically coupled with,side board
+side board,physically coupled with,mug
+mug,physically coupled with,side board
+side board,physically coupled with,floor
+floor,physically coupled with,side board
+side board,physically coupled with,potted plant
+potted plant,physically coupled with,side board
+side board,physically coupled with,ornament
+ornament,physically coupled with,side board
+side board,physically coupled with,table lamp
+table lamp,physically coupled with,side board
+side board,physically coupled with,wall
+wall,physically coupled with,side board
+side board,has attribute,middle clearance
+coffee table,located in,living room
+coffee table,subclass of,table
+coffee table,functionally coupled with,armrest
+armrest,functionally coupled with,coffee table
+coffee table,functionally coupled with,cabinet
+cabinet,functionally coupled with,coffee table
+coffee table,physically coupled with,nursery rug
+nursery rug,physically coupled with,coffee table
+coffee table,physically coupled with,mug
+mug,physically coupled with,coffee table
+coffee table,physically coupled with,printed book
+printed book,physically coupled with,coffee table
+coffee table,physically coupled with,potted plant
+potted plant,physically coupled with,coffee table
+coffee table,physically coupled with,ornament
+ornament,physically coupled with,coffee table
+coffee table,has attribute,low clearance
+coffee table,has attribute,movable
+coffee table,material,fibreboard
+coffee table,material,acrylic
+coffee table,material,solid beech
+console table,located in,living room
+console table,subclass of,table
+console table,subclass of,shelf
+console table,functionally coupled with,shelving units
+shelving units,functionally coupled with,console table
+console table,functionally coupled with,coffee table
+coffee table,functionally coupled with,console table
+console table,functionally coupled with,cabinet
+cabinet,functionally coupled with,console table
+console table,physically coupled with,wall
+wall,physically coupled with,console table
+console table,physically coupled with,printed book
+printed book,physically coupled with,console table
+console table,physically coupled with,floor
+floor,physically coupled with,console table
+console table,physically coupled with,potted plant
+potted plant,physically coupled with,console table
+console table,physically coupled with,ornament
+ornament,physically coupled with,console table
+console table,has attribute,high clearance
+console table,has attribute,movable
+console table,material,fibreboard
+console table,material,particleboard
+nursery curtains,located in,living room
+nursery curtains,subclass of,linens
+nursery curtains,subclass of,hanging
+nursery curtains,physically coupled with,wall
+wall,physically coupled with,nursery curtains
+nursery curtains,physically coupled with,window
+window,physically coupled with,nursery curtains
+nursery curtains,material,polyester
+floor lamp,located in,living room
+floor lamp,subclass of,lamp
+floor lamp,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,kindle
+kindle,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,printed book
+printed book,functionally coupled with,floor lamp
+floor lamp,physically coupled with,floor
+floor,physically coupled with,floor lamp
+floor lamp,physically coupled with,smart charging board
+smart charging board,physically coupled with,floor lamp
+floor lamp,has attribute,movable
+floor lamp,material,steel
+floor lamp,material,polyester
+ceiling spotlight,located in,living room
+ceiling spotlight,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,kindle
+kindle,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,printed book
+printed book,functionally coupled with,ceiling spotlight
+ceiling spotlight,physically coupled with,ceiling
+ceiling,physically coupled with,ceiling spotlight
+ceiling spotlight,material,steel
+ceiling spotlight,material,aluminium
+wall shelf,located in,living room
+wall shelf,functionally coupled with,console table
+console table,functionally coupled with,wall shelf
+wall shelf,functionally coupled with,shelving units
+shelving units,functionally coupled with,wall shelf
+wall shelf,functionally coupled with,side board
+side board,functionally coupled with,wall shelf
+wall shelf,physically coupled with,wall
+wall,physically coupled with,wall shelf
+wall shelf,physically coupled with,printed book
+printed book,physically coupled with,wall shelf
+wall shelf,physically coupled with,ornament
+ornament,physically coupled with,wall shelf
+wall shelf,physically coupled with,potted plant
+potted plant,physically coupled with,wall shelf
+wall shelf,physically coupled with,glassware
+glassware,physically coupled with,wall shelf
+wall shelf,physically coupled with,mug
+mug,physically coupled with,wall shelf
+wall shelf,material,particleboard
+wall shelf,material,fibreboard
+wall shelf,material,plastic
+wall shelf,material,paper
+wall shelf,material,steel
+smart phone,located in,living room
+smart phone,subclass of,mobile phone
+smart phone,subclass of,smart device
+smart phone,subclass of,information appliance
+smart phone,subclass of,mobile computer
+smart phone,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,smart phone
+smart phone,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,smart phone
+smart phone,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,smart phone
+smart phone,physically coupled with,coffee table
+coffee table,physically coupled with,smart phone
+smart phone,physically coupled with,console table
+console table,physically coupled with,smart phone
+kindle,located in,living room
+kindle,subclass of,e-printed book reader
+kindle,subclass of,tablet computer
+kindle,functionally coupled with,smart phone
+smart phone,functionally coupled with,kindle
+kindle,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,kindle
+kindle,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,kindle
+kindle,physically coupled with,armrest
+armrest,physically coupled with,kindle
+kindle,physically coupled with,coffee table
+coffee table,physically coupled with,kindle
+kindle,physically coupled with,console table
+console table,physically coupled with,kindle
+smart charging board,located in,living room
+smart charging board,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,kindle
+kindle,functionally coupled with,smart charging board
+smart charging board,physically coupled with,console table
+console table,physically coupled with,smart charging board
+smart charging board,physically coupled with,floor
+floor,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart phone
+smart phone,physically coupled with,smart charging board
+smart charging board,physically coupled with,kindle
+kindle,physically coupled with,smart charging board
+smart air humidifier,located in,living room
+smart air humidifier,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart air humidifier
+smart air humidifier,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart air humidifier
+smart air humidifier,physically coupled with,console table
+console table,physically coupled with,smart air humidifier
+smart air humidifier,physically coupled with,cabinet
+cabinet,physically coupled with,smart air humidifier
+smart air humidifier,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart air humidifier
+smart lighting,located in,living room
+smart lighting,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,smart lighting
+smart lighting,physically coupled with,floor lamp
+floor lamp,physically coupled with,smart lighting
+smart lighting,physically coupled with,ceiling spotlight
+ceiling spotlight,physically coupled with,smart lighting
+smart lighting,physically coupled with,wall
+wall,physically coupled with,smart lighting
+smart lighting,physically coupled with,console table
+console table,physically coupled with,smart lighting
+smart lighting,physically coupled with,cabinet
+cabinet,physically coupled with,smart lighting
+robot vacuum cleaner,located in,living room
+robot vacuum cleaner,subclass of,vacuum cleaner
+robot vacuum cleaner,subclass of,autonomous robot
+robot vacuum cleaner,subclass of,smart device
+robot vacuum cleaner,subclass of,home appliance
+robot vacuum cleaner,functionally coupled with,smart phone
+smart phone,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,sofa bed
+sofa bed,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,modular sofa
+modular sofa,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,nursery rug
+nursery rug,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,coffee table
+coffee table,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,console table
+console table,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,sofa bed
+sofa bed,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,modular sofa
+modular sofa,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,footstool
+footstool,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,pouffe
+pouffe,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,armchair
+armchair,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,side board
+side board,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,nursery rug
+nursery rug,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,coffee table
+coffee table,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,console table
+console table,physically coupled with,robot vacuum cleaner
+smart home controller,located in,living room
+smart home controller,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart air humidifier
+smart air humidifier,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,smart home controller
+smart home controller,physically coupled with,console table
+console table,physically coupled with,smart home controller
+smart home controller,physically coupled with,coffee table
+coffee table,physically coupled with,smart home controller
+smart home controller,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart home controller
+smart soundbar,located in,living room
+smart soundbar,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart soundbar
+smart soundbar,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart soundbar
+smart soundbar,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart soundbar
+smart soundbar,physically coupled with,console table
+console table,physically coupled with,smart soundbar
+smart soundbar,physically coupled with,coffee table
+coffee table,physically coupled with,smart soundbar
+smart soundbar,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart soundbar
+smart air conditioner,located in,living room
+smart air conditioner,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart air humidifier
+smart air humidifier,functionally coupled with,smart air conditioner
+smart air conditioner,physically coupled with,wall
+wall,physically coupled with,smart air conditioner
+smart security camera,located in,living room
+smart security camera,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart security camera
+smart security camera,physically coupled with,wall
+wall,physically coupled with,smart security camera
+smart security camera,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart security camera
+smart security camera,physically coupled with,console table
+console table,physically coupled with,smart security camera
+smart tv,located in,living room
+smart tv,subclass of,television set
+smart tv,subclass of,smart device
+smart tv,subclass of,smart appliance
+smart tv,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart tv
+smart tv,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,smart tv
+smart tv,physically coupled with,wall
+wall,physically coupled with,smart tv
+smart thermometer,located in,living room
+smart thermometer,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart thermometer
+smart thermometer,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart thermometer
+smart thermometer,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart thermometer
+smart thermometer,physically coupled with,wall
+wall,physically coupled with,smart thermometer
+smart thermometer,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart thermometer
+smart controller,located in,living room
+smart controller,functionally coupled with,smart tv
+smart tv,functionally coupled with,smart controller
+smart controller,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart controller
+smart controller,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart controller
+smart controller,functionally coupled with,smart soundbar
+smart soundbar,functionally coupled with,smart controller
+smart controller,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart controller
+smart controller,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart controller
+smart controller,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart controller
+smart controller,physically coupled with,sofa bed
+sofa bed,physically coupled with,smart controller
+smart controller,physically coupled with,modular sofa
+modular sofa,physically coupled with,smart controller
+smart controller,physically coupled with,sofa cover
+sofa cover,physically coupled with,smart controller
+smart controller,physically coupled with,console table
+console table,physically coupled with,smart controller
+smart controller,physically coupled with,coffee table
+coffee table,physically coupled with,smart controller
+smart air purifier,located in,living room
+smart air purifier,subclass of,air purifier
+smart air purifier,subclass of,smart appliance
+smart air purifier,subclass of,smart device
+smart air purifier,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart air purifier
+smart air purifier,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart air purifier
+smart air purifier,functionally coupled with,smart thermometer
+smart thermometer,functionally coupled with,smart air purifier
+smart air purifier,functionally coupled with,smart air humidifier
+smart air humidifier,functionally coupled with,smart air purifier
+smart air purifier,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart air purifier
+smart air purifier,physically coupled with,floor
+floor,physically coupled with,smart air purifier
+smart air purifier,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,smart air purifier
+smart air purifier,physically coupled with,console table
+console table,physically coupled with,smart air purifier
+smart air purifier,has attribute,movable
+smart feeder,located in,living room
+smart feeder,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart feeder
+smart feeder,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart feeder
+smart feeder,functionally coupled with,plate
+plate,functionally coupled with,smart feeder
+smart feeder,physically coupled with,floor
+floor,physically coupled with,smart feeder
+smart feeder,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,smart feeder
+smart feeder,physically coupled with,wall
+wall,physically coupled with,smart feeder
+smart feeder,has attribute,movable
+satchel,located in,living room
+mug,located in,living room
+mug,subclass of,tableware
+printed book,located in,living room
+plate,located in,living room
+plate,subclass of,tableware
+glassware,located in,living room
+ornament,located in,living room
+potted plant,located in,living room
+splashbacks,located in,kitchen
+splashbacks,part of,wall
+splashbacks,physically coupled with,plate
+plate,physically coupled with,splashbacks
+splashbacks,physically coupled with,glassware
+glassware,physically coupled with,splashbacks
+splashbacks,physically coupled with,mug
+mug,physically coupled with,splashbacks
+splashbacks,physically coupled with,bowl
+bowl,physically coupled with,splashbacks
+splashbacks,physically coupled with,pot
+pot,physically coupled with,splashbacks
+splashbacks,physically coupled with,knife
+knife,physically coupled with,splashbacks
+splashbacks,physically coupled with,food
+food,physically coupled with,splashbacks
+splashbacks,physically coupled with,chopping board
+chopping board,physically coupled with,splashbacks
+splashbacks,material,quartz composite
+shelves & drawers,located in,kitchen
+shelves & drawers,physically coupled with,wall
+wall,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,splashbacks
+splashbacks,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,floor
+floor,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,cooker
+cooker,physically coupled with,shelves & drawers
+shelves & drawers,material,galvanised steel
+shelves & drawers,material,particleboard
+shelves & drawers,material,melamine foil
+drawer dividers,located in,kitchen
+drawer dividers,part of,shelves & drawers
+drawer dividers,physically coupled with,plate
+plate,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,glassware
+glassware,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,mug
+mug,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,bowl
+bowl,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,pot
+pot,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,knife
+knife,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,food
+food,physically coupled with,drawer dividers
+drawer dividers,physically coupled with,chopping board
+chopping board,physically coupled with,drawer dividers
+drawer dividers,material,bamboo
+drawer dividers,material,stain
+kitchen sinks,located in,kitchen
+kitchen sinks,subclass of,sanitation
+kitchen sinks,subclass of,sink
+kitchen sinks,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,splashbacks
+splashbacks,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,plate
+plate,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,glassware
+glassware,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,mug
+mug,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,bowl
+bowl,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,pot
+pot,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,knife
+knife,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,food
+food,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,chopping board
+chopping board,physically coupled with,kitchen sinks
+kitchen sinks,physically coupled with,cooker
+cooker,physically coupled with,kitchen sinks
+kitchen sinks,material,polypropylene plastic
+kitchen sinks,material,stainless steel
+kitchen sinks,material,synthetic rubber
+mixer taps,located in,kitchen
+mixer taps,part of,kitchen sinks
+mixer taps,material,zinc
+kitchen benchtops,located in,kitchen
+kitchen benchtops,functionally coupled with,splashbacks
+splashbacks,functionally coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,splashbacks
+splashbacks,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,plate
+plate,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,glassware
+glassware,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,mug
+mug,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,bowl
+bowl,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,pot
+pot,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,knife
+knife,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,food
+food,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,chopping board
+chopping board,physically coupled with,kitchen benchtops
+kitchen benchtops,material,quartz composite
+kitchen lighting,located in,kitchen
+kitchen lighting,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,kitchen lighting
+kitchen lighting,material,polypropylene plastic
+kitchen lighting,material,aluminium
+kitchen islands,located in,kitchen
+kitchen islands,functionally coupled with,shelves & drawers
+shelves & drawers,functionally coupled with,kitchen islands
+kitchen islands,functionally coupled with,chair
+chair,functionally coupled with,kitchen islands
+kitchen islands,physically coupled with,floor
+floor,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,plate
+plate,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,glassware
+glassware,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,mug
+mug,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,bowl
+bowl,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,pot
+pot,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,knife
+knife,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,food
+food,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,chopping board
+chopping board,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,cooker
+cooker,physically coupled with,kitchen islands
+kitchen islands,material,fibreboard
+kitchen islands,material,acrylic
+kitchen islands,material,particleboard
+kitchen islands,material,thick birch veneer
+kitchen islands,material,thick oak veneer
+kitchen trolley,located in,kitchen
+kitchen trolley,functionally coupled with,shelves & drawers
+shelves & drawers,functionally coupled with,kitchen trolley
+kitchen trolley,functionally coupled with,kitchen islands
+kitchen islands,functionally coupled with,kitchen trolley
+kitchen trolley,physically coupled with,floor
+floor,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,plate
+plate,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,glassware
+glassware,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,mug
+mug,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,bowl
+bowl,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,pot
+pot,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,knife
+knife,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,food
+food,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,chopping board
+chopping board,physically coupled with,kitchen trolley
+kitchen trolley,physically coupled with,cooker
+cooker,physically coupled with,kitchen trolley
+kitchen trolley,material,steel
+wall organisers,located in,kitchen
+wall organisers,functionally coupled with,shelves & drawers
+shelves & drawers,functionally coupled with,wall organisers
+wall organisers,functionally coupled with,kitchen islands
+kitchen islands,functionally coupled with,wall organisers
+wall organisers,functionally coupled with,kitchen trolley
+kitchen trolley,functionally coupled with,wall organisers
+wall organisers,physically coupled with,wall
+wall,physically coupled with,wall organisers
+wall organisers,physically coupled with,plate
+plate,physically coupled with,wall organisers
+wall organisers,physically coupled with,glassware
+glassware,physically coupled with,wall organisers
+wall organisers,physically coupled with,mug
+mug,physically coupled with,wall organisers
+wall organisers,physically coupled with,bowl
+bowl,physically coupled with,wall organisers
+wall organisers,physically coupled with,pot
+pot,physically coupled with,wall organisers
+wall organisers,physically coupled with,knife
+knife,physically coupled with,wall organisers
+wall organisers,physically coupled with,food
+food,physically coupled with,wall organisers
+wall organisers,physically coupled with,chopping board
+chopping board,physically coupled with,wall organisers
+wall organisers,material,stainless steel
+wall organisers,material,stain
+wall organisers,material,ash veneer
+hobs,located in,kitchen
+hobs,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,hobs
+hobs,physically coupled with,cooker
+cooker,physically coupled with,hobs
+hobs,material,stainless steel
+smart phone,located in,kitchen
+smart phone,functionally coupled with,kitchen lighting
+kitchen lighting,functionally coupled with,smart phone
+smart phone,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,smart phone
+smart phone,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart phone
+smart home controller,located in,kitchen
+smart home controller,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,smart home controller
+smart home controller,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart home controller
+smart oven,located in,kitchen
+smart oven,subclass of,smart appliance
+smart oven,subclass of,home appliance
+smart oven,subclass of,smart device
+smart oven,subclass of,kitchen stove
+smart oven,subclass of,cooking appliance
+smart oven,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart oven
+smart oven,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart oven
+smart oven,physically coupled with,plate
+plate,physically coupled with,smart oven
+smart oven,physically coupled with,bowl
+bowl,physically coupled with,smart oven
+smart oven,physically coupled with,food
+food,physically coupled with,smart oven
+smart oven,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,smart oven
+smart fridge,located in,kitchen
+smart fridge,subclass of,refrigerator
+smart fridge,subclass of,smart appliance
+smart fridge,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart fridge
+smart fridge,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart fridge
+smart fridge,physically coupled with,wall
+wall,physically coupled with,smart fridge
+smart fridge,physically coupled with,floor
+floor,physically coupled with,smart fridge
+smart fridge,physically coupled with,plate
+plate,physically coupled with,smart fridge
+smart fridge,physically coupled with,bowl
+bowl,physically coupled with,smart fridge
+smart fridge,physically coupled with,glassware
+glassware,physically coupled with,smart fridge
+smart fridge,physically coupled with,mug
+mug,physically coupled with,smart fridge
+smart fridge,physically coupled with,food
+food,physically coupled with,smart fridge
+smart sous vide cooker,located in,kitchen
+smart sous vide cooker,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart sous vide cooker
+smart sous vide cooker,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart sous vide cooker
+smart sous vide cooker,functionally coupled with,hobs
+hobs,functionally coupled with,smart sous vide cooker
+smart sous vide cooker,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart sous vide cooker
+smart sous vide cooker,physically coupled with,food
+food,physically coupled with,smart sous vide cooker
+smart coffee machine,located in,kitchen
+smart coffee machine,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart coffee machine
+smart coffee machine,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart coffee machine
+smart coffee machine,functionally coupled with,mug
+mug,functionally coupled with,smart coffee machine
+smart coffee machine,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart coffee machine
+smart coffee machine,physically coupled with,mug
+mug,physically coupled with,smart coffee machine
+smart coffee machine,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,smart coffee machine
+smart microwave oven,located in,kitchen
+smart microwave oven,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,smart oven
+smart oven,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,smart sous vide cooker
+smart sous vide cooker,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,cooker
+cooker,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,hobs
+hobs,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,plate
+plate,functionally coupled with,smart microwave oven
+smart microwave oven,physically coupled with,plate
+plate,physically coupled with,smart microwave oven
+smart microwave oven,physically coupled with,bowl
+bowl,physically coupled with,smart microwave oven
+smart microwave oven,physically coupled with,mug
+mug,physically coupled with,smart microwave oven
+smart microwave oven,physically coupled with,glassware
+glassware,physically coupled with,smart microwave oven
+smart microwave oven,physically coupled with,wall
+wall,physically coupled with,smart microwave oven
+smart microwave oven,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart microwave oven
+smart scale,located in,kitchen
+smart scale,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart scale
+smart scale,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart scale
+smart scale,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart scale
+smart scale,physically coupled with,bowl
+bowl,physically coupled with,smart scale
+smart scale,physically coupled with,plate
+plate,physically coupled with,smart scale
+smart scale,physically coupled with,food
+food,physically coupled with,smart scale
+smart cooking thermometer,located in,kitchen
+smart cooking thermometer,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,functionally coupled with,smart fridge
+smart fridge,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,functionally coupled with,smart oven
+smart oven,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,functionally coupled with,cooker
+cooker,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,functionally coupled with,smart microwave oven
+smart microwave oven,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,physically coupled with,food
+food,physically coupled with,smart cooking thermometer
+smart range hood,located in,kitchen
+smart range hood,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart range hood
+smart range hood,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart range hood
+smart range hood,functionally coupled with,cooker
+cooker,functionally coupled with,smart range hood
+smart range hood,functionally coupled with,hods
+hods,functionally coupled with,smart range hood
+smart range hood,physically coupled with,wall
+wall,physically coupled with,smart range hood
+smart crockpot,located in,kitchen
+smart crockpot,functionally coupled with,cooker
+cooker,functionally coupled with,smart crockpot
+smart crockpot,functionally coupled with,smart oven
+smart oven,functionally coupled with,smart crockpot
+smart crockpot,functionally coupled with,smart sous vide cooker
+smart sous vide cooker,functionally coupled with,smart crockpot
+smart crockpot,functionally coupled with,smart cooking thermometer
+smart cooking thermometer,functionally coupled with,smart crockpot
+smart crockpot,functionally coupled with,plate
+plate,functionally coupled with,smart crockpot
+smart crockpot,functionally coupled with,bowl
+bowl,functionally coupled with,smart crockpot
+smart crockpot,physically coupled with,food
+food,physically coupled with,smart crockpot
+smart crockpot,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart crockpot
+smart crockpot,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,smart crockpot
+smart crockpot,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,smart crockpot
+smart jucier,located in,kitchen
+smart jucier,functionally coupled with,food
+food,functionally coupled with,smart jucier
+smart jucier,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart jucier
+smart jucier,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart jucier
+smart jucier,functionally coupled with,mug
+mug,functionally coupled with,smart jucier
+smart jucier,functionally coupled with,glassware
+glassware,functionally coupled with,smart jucier
+smart jucier,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,smart jucier
+smart jucier,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart jucier
+smart jucier,physically coupled with,kitchen islands
+kitchen islands,physically coupled with,smart jucier
+smart jucier,physically coupled with,food
+food,physically coupled with,smart jucier
+smart dishwasher,located in,kitchen
+smart dishwasher,subclass of,smart appliance
+smart dishwasher,subclass of,dishwasher
+smart dishwasher,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart dishwasher
+smart dishwasher,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart dishwasher
+smart dishwasher,functionally coupled with,mug
+mug,functionally coupled with,smart dishwasher
+smart dishwasher,functionally coupled with,plate
+plate,functionally coupled with,smart dishwasher
+smart dishwasher,functionally coupled with,bowl
+bowl,functionally coupled with,smart dishwasher
+smart dishwasher,functionally coupled with,pot
+pot,functionally coupled with,smart dishwasher
+smart dishwasher,physically coupled with,smart oven
+smart oven,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,cooker
+cooker,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,glassware
+glassware,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,mug
+mug,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,plate
+plate,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,bowl
+bowl,physically coupled with,smart dishwasher
+smart dishwasher,physically coupled with,pot
+pot,physically coupled with,smart dishwasher
+smart blender,located in,kitchen
+smart blender,functionally coupled with,food
+food,functionally coupled with,smart blender
+smart blender,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart blender
+smart blender,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart blender
+smart blender,physically coupled with,food
+food,physically coupled with,smart blender
+smart blender,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart blender
+smart blender,physically coupled with,shelves & drawers
+shelves & drawers,physically coupled with,smart blender
+smart gas detector,located in,kitchen
+smart gas detector,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart gas detector
+smart gas detector,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart gas detector
+smart gas detector,functionally coupled with,smart range hood
+smart range hood,functionally coupled with,smart gas detector
+smart gas detector,functionally coupled with,hobs
+hobs,functionally coupled with,smart gas detector
+smart gas detector,physically coupled with,wall
+wall,physically coupled with,smart gas detector
+smart gas detector,physically coupled with,ceiling
+ceiling,physically coupled with,smart gas detector
+smart gas detector,physically coupled with,kitchen benchtops
+kitchen benchtops,physically coupled with,smart gas detector
+plate,located in,kitchen
+glassware,located in,kitchen
+mug,located in,kitchen
+bowl,located in,kitchen
+bowl,subclass of,tableware
+pot,located in,kitchen
+chopping board,located in,kitchen
+knife,located in,kitchen
+food,located in,kitchen
+cooker,located in,kitchen
+dining table,located in,dining room
+dining table,subclass of,table
+dining table,physically coupled with,tableware
+tableware,physically coupled with,dining table
+dining table,physically coupled with,table centerpiece
+table centerpiece,physically coupled with,dining table
+dining table,physically coupled with,napkins
+napkins,physically coupled with,dining table
+dining table,physically coupled with,tablecloth
+tablecloth,physically coupled with,dining table
+dining table,physically coupled with,lattern
+lattern,physically coupled with,dining table
+dining table,physically coupled with,candelabrum
+candelabrum,physically coupled with,dining table
+dining table,physically coupled with,place card holder
+place card holder,physically coupled with,dining table
+dining table,physically coupled with,basket
+basket,physically coupled with,dining table
+dining table,physically coupled with,glassware
+glassware,physically coupled with,dining table
+dining table,physically coupled with,dishcloth
+dishcloth,physically coupled with,dining table
+dining table,physically coupled with,floor
+floor,physically coupled with,dining table
+dining table,physically coupled with,ornament
+ornament,physically coupled with,dining table
+dining table,has attribute,high clearance
+dining table,material,particle board
+dining table,material,oak veneer
+dining table,material,solid birch
+dining chair,located in,dining room
+dining chair,functionally coupled with,dining table
+dining table,functionally coupled with,dining chair
+dining chair,functionally coupled with,chair pads
+chair pads,functionally coupled with,dining chair
+dining chair,physically coupled with,chair cover
+chair cover,physically coupled with,dining chair
+dining chair,physically coupled with,floor
+floor,physically coupled with,dining chair
+dining chair,physically coupled with,chair pads
+chair pads,physically coupled with,dining chair
+dining chair,has attribute,high clearance
+dining chair,has attribute,movable
+dining chair,material,solid birch
+dining chair,material,steel
+dining chair,material,polyester powder coating
+dining chair,material,clear acrylic lacquer
+sideboard,located in,dining room
+sideboard,subclass of,cabinet
+sideboard,functionally coupled with,dining table
+dining table,functionally coupled with,sideboard
+sideboard,physically coupled with,glassware
+glassware,physically coupled with,sideboard
+sideboard,physically coupled with,tableware
+tableware,physically coupled with,sideboard
+sideboard,physically coupled with,lattern
+lattern,physically coupled with,sideboard
+sideboard,physically coupled with,candelabrum
+candelabrum,physically coupled with,sideboard
+sideboard,physically coupled with,basket
+basket,physically coupled with,sideboard
+sideboard,physically coupled with,potted plant
+potted plant,physically coupled with,sideboard
+sideboard,physically coupled with,ornament
+ornament,physically coupled with,sideboard
+sideboard,physically coupled with,floor
+floor,physically coupled with,sideboard
+sideboard,physically coupled with,wall
+wall,physically coupled with,sideboard
+sideboard,physically coupled with,dishcloth
+dishcloth,physically coupled with,sideboard
+sideboard,has attribute,low clearance
+sideboard,material,fibreboard
+sideboard,material,solid pine
+console table,located in,dining room
+console table,subclass of,table
+console table,subclass of,shelf
+console table,functionally coupled with,dining table
+dining table,functionally coupled with,console table
+console table,functionally coupled with,sideboard
+sideboard,functionally coupled with,console table
+console table,physically coupled with,glassware
+glassware,physically coupled with,console table
+console table,physically coupled with,lattern
+lattern,physically coupled with,console table
+console table,physically coupled with,candelabrum
+candelabrum,physically coupled with,console table
+console table,physically coupled with,basket
+basket,physically coupled with,console table
+console table,physically coupled with,dishcloth
+dishcloth,physically coupled with,console table
+console table,has attribute,low clearance
+console table,material,tempered glass
+console table,material,solid beech
+bar table,located in,dining room
+bar table,functionally coupled with,dining table
+dining table,functionally coupled with,bar table
+bar table,physically coupled with,floor
+floor,physically coupled with,bar table
+bar table,physically coupled with,glassware
+glassware,physically coupled with,bar table
+bar table,physically coupled with,table centerpiece
+table centerpiece,physically coupled with,bar table
+bar table,physically coupled with,potted plant
+potted plant,physically coupled with,bar table
+bar table,physically coupled with,place card holder
+place card holder,physically coupled with,bar table
+bar table,physically coupled with,dishcloth
+dishcloth,physically coupled with,bar table
+bar table,physically coupled with,ornament
+ornament,physically coupled with,bar table
+bar table,has attribute,high clearance
+bar table,material,particle board
+bar table,material,oak veneer
+bar table,material,steel
+bench,located in,dining room
+bench,subclass of,seat
+bench,functionally coupled with,dining chair
+dining chair,functionally coupled with,bench
+bench,physically coupled with,floor
+floor,physically coupled with,bench
+bench,physically coupled with,chair pads
+chair pads,physically coupled with,bench
+bench,has attribute,low clearance
+bench,has attribute,movable
+bench,material,particle board
+bench,material,solid oak
+bench,material,thick oak veneer
+stool,located in,dining room
+stool,functionally coupled with,dining chair
+dining chair,functionally coupled with,stool
+stool,functionally coupled with,bench
+bench,functionally coupled with,stool
+stool,functionally coupled with,dining table
+dining table,functionally coupled with,stool
+stool,physically coupled with,glassware
+glassware,physically coupled with,stool
+stool,physically coupled with,floor
+floor,physically coupled with,stool
+stool,physically coupled with,chair pads
+chair pads,physically coupled with,stool
+stool,has attribute,high clearance
+stool,has attribute,movable
+stool,material,birch plywood
+stool,material,birch veneer
+stool,material,stain
+cafe table,located in,dining room
+cafe table,functionally coupled with,dining table
+dining table,functionally coupled with,cafe table
+cafe table,functionally coupled with,bar table
+bar table,functionally coupled with,cafe table
+cafe table,functionally coupled with,stool
+stool,functionally coupled with,cafe table
+cafe table,physically coupled with,napkins
+napkins,physically coupled with,cafe table
+cafe table,physically coupled with,dishcloth
+dishcloth,physically coupled with,cafe table
+cafe table,physically coupled with,floor
+floor,physically coupled with,cafe table
+cafe table,physically coupled with,glassware
+glassware,physically coupled with,cafe table
+cafe table,physically coupled with,place card holder
+place card holder,physically coupled with,cafe table
+cafe table,physically coupled with,ornament
+ornament,physically coupled with,cafe table
+cafe table,has attribute,high clearance
+cafe table,has attribute,movable
+cafe table,material,aluminium
+cafe table,material,steel
+cafe table,material,particle board
+wine rack,located in,dining room
+wine rack,functionally coupled with,console table
+console table,functionally coupled with,wine rack
+wine rack,functionally coupled with,sideboard
+sideboard,functionally coupled with,wine rack
+wine rack,physically coupled with,floor
+floor,physically coupled with,wine rack
+wine rack,physically coupled with,glassware
+glassware,physically coupled with,wine rack
+wine rack,physically coupled with,console table
+console table,physically coupled with,wine rack
+wine rack,has attribute,movable
+wine rack,material,solid wood
+cooling bag,located in,dining room
+cooling bag,physically coupled with,glassware
+glassware,physically coupled with,cooling bag
+cooling bag,physically coupled with,floor
+floor,physically coupled with,cooling bag
+cooling bag,physically coupled with,dining table
+dining table,physically coupled with,cooling bag
+cooling bag,physically coupled with,console table
+console table,physically coupled with,cooling bag
+cooling bag,physically coupled with,tableware
+tableware,physically coupled with,cooling bag
+cooling bag,material,polyester
+cooling bag,material,polyurethane
+ceiling spotlight,located in,dining room
+ceiling spotlight,functionally coupled with,lattern
+lattern,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,candelabrum
+candelabrum,functionally coupled with,ceiling spotlight
+ceiling spotlight,physically coupled with,ceiling
+ceiling,physically coupled with,ceiling spotlight
+ceiling spotlight,material,steel
+ceiling spotlight,material,aluminium
+floor lamp,located in,dining room
+floor lamp,subclass of,lamp
+floor lamp,functionally coupled with,lattern
+lattern,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,candelabrum
+candelabrum,functionally coupled with,floor lamp
+floor lamp,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,floor lamp
+floor lamp,material,acrylic
+wall shelf,located in,dining room
+wall shelf,functionally coupled with,sideboard
+sideboard,functionally coupled with,wall shelf
+wall shelf,physically coupled with,lattern
+lattern,physically coupled with,wall shelf
+wall shelf,physically coupled with,candelabrum
+candelabrum,physically coupled with,wall shelf
+wall shelf,physically coupled with,tableware
+tableware,physically coupled with,wall shelf
+smart phone,located in,dining room
+smart phone,subclass of,mobile phone
+smart phone,subclass of,smart device
+smart phone,subclass of,information appliance
+smart phone,subclass of,mobile computer
+smart phone,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,smart phone
+smart phone,functionally coupled with,candelabrum
+candelabrum,functionally coupled with,smart phone
+smart phone,functionally coupled with,lattern
+lattern,functionally coupled with,smart phone
+smart phone,physically coupled with,cafe table
+cafe table,physically coupled with,smart phone
+smart phone,physically coupled with,stool
+stool,physically coupled with,smart phone
+smart phone,physically coupled with,bench
+bench,physically coupled with,smart phone
+smart phone,physically coupled with,bar table
+bar table,physically coupled with,smart phone
+smart phone,physically coupled with,dining table
+dining table,physically coupled with,smart phone
+smart home controller,located in,dining room
+smart home controller,physically coupled with,dining table
+dining table,physically coupled with,smart home controller
+smart lighting,located in,dining room
+smart lighting,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,candelabrum
+candelabrum,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,lattern
+lattern,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart lighting
+smart fridge,located in,dining room
+smart fridge,subclass of,refrigerator
+smart fridge,subclass of,smart appliance
+smart fridge,functionally coupled with,cooling bag
+cooling bag,functionally coupled with,smart fridge
+smart fridge,functionally coupled with,wine rack
+wine rack,functionally coupled with,smart fridge
+smart fridge,physically coupled with,tableware
+tableware,physically coupled with,smart fridge
+robot vacuum cleaner,located in,dining room
+robot vacuum cleaner,subclass of,vacuum cleaner
+robot vacuum cleaner,subclass of,autonomous robot
+robot vacuum cleaner,subclass of,smart device
+robot vacuum cleaner,subclass of,home appliance
+robot vacuum cleaner,physically coupled with,floor
+floor,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,wall
+wall,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,dining table
+dining table,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,dining chair
+dining chair,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,sideboard
+sideboard,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,bar table
+bar table,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,bench
+bench,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,stool
+stool,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,cafe table
+cafe table,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,cooling bag
+cooling bag,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,smart fridge
+smart fridge,physically coupled with,robot vacuum cleaner
+smart thermometer,located in,dining room
+smart thermometer,functionally coupled with,lattern
+lattern,functionally coupled with,smart thermometer
+smart thermometer,functionally coupled with,candelabrum
+candelabrum,functionally coupled with,smart thermometer
+smart air conditioner,located in,dining room
+smart charging board,located in,dining room
+smart charging board,physically coupled with,dining table
+dining table,physically coupled with,smart charging board
+smart charging board,physically coupled with,bar table
+bar table,physically coupled with,smart charging board
+kindle,located in,dining room
+kindle,subclass of,e-printed book reader
+kindle,subclass of,tablet computer
+kindle,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,kindle
+kindle,functionally coupled with,candelabrum
+candelabrum,functionally coupled with,kindle
+kindle,functionally coupled with,lattern
+lattern,functionally coupled with,kindle
+kindle,physically coupled with,dining table
+dining table,physically coupled with,kindle
+kindle,physically coupled with,bar table
+bar table,physically coupled with,kindle
+kindle,physically coupled with,cafe table
+cafe table,physically coupled with,kindle
+kindle,physically coupled with,bench
+bench,physically coupled with,kindle
+kindle,physically coupled with,stool
+stool,physically coupled with,kindle
+smart security camera,located in,dining room
+smart security camera,physically coupled with,sideboard
+sideboard,physically coupled with,smart security camera
+smart alarm clock,located in,dining room
+smart alarm clock,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart alarm clock
+smart alarm clock,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart alarm clock
+smart alarm clock,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,smart alarm clock
+smart alarm clock,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,smart alarm clock
+smart alarm clock,physically coupled with,dining table
+dining table,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,console table
+console table,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,bar table
+bar table,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,cafe table
+cafe table,physically coupled with,smart alarm clock
+smart air purifier,located in,dining room
+smart air purifier,subclass of,air purifier
+smart air purifier,subclass of,smart appliance
+smart air purifier,subclass of,smart device
+smart feeder,located in,dining room
+smart feeder,functionally coupled with,tableware
+tableware,functionally coupled with,smart feeder
+tableware,located in,dining room
+table centerpiece,located in,dining room
+napkins,located in,dining room
+tablecloth,located in,dining room
+lattern,located in,dining room
+candelabrum,located in,dining room
+place card holder,located in,dining room
+basket,located in,dining room
+potted plant,located in,dining room
+glassware,located in,dining room
+chair cover,located in,dining room
+chair pads,located in,dining room
+dishcloth,located in,dining room
+ornament,located in,dining room
+computer desk,located in,study room
+computer desk,subclass of,desk
+computer desk,functionally coupled with,cable
+cable,functionally coupled with,computer desk
+computer desk,physically coupled with,folder
+folder,physically coupled with,computer desk
+computer desk,physically coupled with,writing tools
+writing tools,physically coupled with,computer desk
+computer desk,physically coupled with,pen holder
+pen holder,physically coupled with,computer desk
+computer desk,physically coupled with,writing stationaries
+writing stationaries,physically coupled with,computer desk
+computer desk,physically coupled with,file
+file,physically coupled with,computer desk
+computer desk,physically coupled with,printed book
+printed book,physically coupled with,computer desk
+computer desk,physically coupled with,picture frame
+picture frame,physically coupled with,computer desk
+computer desk,physically coupled with,cable
+cable,physically coupled with,computer desk
+computer desk,physically coupled with,computer accessories
+computer accessories,physically coupled with,computer desk
+computer desk,physically coupled with,tableware
+tableware,physically coupled with,computer desk
+computer desk,physically coupled with,potted plant
+potted plant,physically coupled with,computer desk
+computer desk,physically coupled with,ornament
+ornament,physically coupled with,computer desk
+computer desk,has attribute,high clearance
+computer desk,material,particleboard
+computer desk,material,acrylic
+computer desk,material,plastic
+computer desk,material,fibreboard
+office chair,located in,study room
+office chair,subclass of,chair
+office chair,functionally coupled with,chair pillow
+chair pillow,functionally coupled with,office chair
+office chair,physically coupled with,chair pillow
+chair pillow,physically coupled with,office chair
+office chair,physically coupled with,floor
+floor,physically coupled with,office chair
+office chair,has attribute,movable
+office chair,material,polypropylene plastic
+office chair,material,polyethylene plastic
+office chair,material,polyster
+office chair,material,steel
+office chair,material,polyurethane foam
+office chair,material,layer-glued wood veneer
+office chair,material,aluminium
+drawer units,located in,study room
+drawer units,functionally coupled with,computer desk
+computer desk,functionally coupled with,drawer units
+drawer units,functionally coupled with,folder
+folder,functionally coupled with,drawer units
+drawer units,functionally coupled with,pen holder
+pen holder,functionally coupled with,drawer units
+drawer units,physically coupled with,floor
+floor,physically coupled with,drawer units
+drawer units,physically coupled with,folder
+folder,physically coupled with,drawer units
+drawer units,physically coupled with,writing tools
+writing tools,physically coupled with,drawer units
+drawer units,physically coupled with,writing stationaries
+writing stationaries,physically coupled with,drawer units
+drawer units,physically coupled with,file
+file,physically coupled with,drawer units
+drawer units,physically coupled with,printed book
+printed book,physically coupled with,drawer units
+drawer units,physically coupled with,potted plant
+potted plant,physically coupled with,drawer units
+drawer units,has attribute,low clearance
+drawer units,has attribute,movable
+drawer units,material,particleboard
+drawer units,material,acrylic
+drawer units,material,plastic
+drawer units,material,fibreboard
+cube storage,located in,study room
+cube storage,functionally coupled with,computer desk
+computer desk,functionally coupled with,cube storage
+cube storage,functionally coupled with,drawer units
+drawer units,functionally coupled with,cube storage
+cube storage,physically coupled with,wall
+wall,physically coupled with,cube storage
+cube storage,physically coupled with,folder
+folder,physically coupled with,cube storage
+cube storage,physically coupled with,printed book
+printed book,physically coupled with,cube storage
+cube storage,physically coupled with,file
+file,physically coupled with,cube storage
+cube storage,physically coupled with,potted plant
+potted plant,physically coupled with,cube storage
+cube storage,material,fibreboard
+cube storage,material,particleboard
+cube storage,material,paper
+cube storage,material,plastic
+shelving units,located in,study room
+shelving units,functionally coupled with,computer desk
+computer desk,functionally coupled with,shelving units
+shelving units,functionally coupled with,drawer units
+drawer units,functionally coupled with,shelving units
+shelving units,functionally coupled with,cube storage
+cube storage,functionally coupled with,shelving units
+shelving units,physically coupled with,wall
+wall,physically coupled with,shelving units
+shelving units,physically coupled with,folder
+folder,physically coupled with,shelving units
+shelving units,physically coupled with,file
+file,physically coupled with,shelving units
+shelving units,has attribute,low clearance
+shelving units,material,stain
+shelving units,material,clear acrylic lacquer
+printed bookcase,located in,study room
+printed bookcase,subclass of,cabinet
+printed bookcase,subclass of,shelf
+printed bookcase,functionally coupled with,computer desk
+computer desk,functionally coupled with,printed bookcase
+printed bookcase,functionally coupled with,drawer units
+drawer units,functionally coupled with,printed bookcase
+printed bookcase,functionally coupled with,cube storage
+cube storage,functionally coupled with,printed bookcase
+printed bookcase,functionally coupled with,shelving units
+shelving units,functionally coupled with,printed bookcase
+printed bookcase,physically coupled with,floor
+floor,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,wall
+wall,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,folder
+folder,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,file
+file,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,printed book
+printed book,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,potted plant
+potted plant,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,ornament
+ornament,physically coupled with,printed bookcase
+printed bookcase,material,particleboard
+printed bookcase,material,plastic
+printed bookcase,material,paper
+printed bookcase,material,melamine
+printed bookcase,material,fibreboard
+paper & media box,located in,study room
+paper & media box,subclass of,box
+paper & media box,functionally coupled with,folder
+folder,functionally coupled with,paper & media box
+paper & media box,functionally coupled with,pen holder
+pen holder,functionally coupled with,paper & media box
+paper & media box,functionally coupled with,cube storage
+cube storage,functionally coupled with,paper & media box
+paper & media box,functionally coupled with,drawer units
+drawer units,functionally coupled with,paper & media box
+paper & media box,physically coupled with,computer desk
+computer desk,physically coupled with,paper & media box
+paper & media box,physically coupled with,drawer units
+drawer units,physically coupled with,paper & media box
+paper & media box,physically coupled with,cube storage
+cube storage,physically coupled with,paper & media box
+paper & media box,physically coupled with,shelving units
+shelving units,physically coupled with,paper & media box
+paper & media box,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,paper & media box
+paper & media box,physically coupled with,writing tools
+writing tools,physically coupled with,paper & media box
+paper & media box,physically coupled with,writing stationaries
+writing stationaries,physically coupled with,paper & media box
+paper & media box,physically coupled with,file
+file,physically coupled with,paper & media box
+paper & media box,physically coupled with,printed book
+printed book,physically coupled with,paper & media box
+paper & media box,material,plastic
+noticeboard,located in,study room
+noticeboard,functionally coupled with,wall hook
+wall hook,functionally coupled with,noticeboard
+noticeboard,functionally coupled with,pen holder
+pen holder,functionally coupled with,noticeboard
+noticeboard,functionally coupled with,paper & media box
+paper & media box,functionally coupled with,noticeboard
+noticeboard,physically coupled with,wall
+wall,physically coupled with,noticeboard
+noticeboard,physically coupled with,wall hook
+wall hook,physically coupled with,noticeboard
+noticeboard,physically coupled with,writing tools
+writing tools,physically coupled with,noticeboard
+noticeboard,physically coupled with,writing stationaries
+writing stationaries,physically coupled with,noticeboard
+noticeboard,physically coupled with,computer accessories
+computer accessories,physically coupled with,noticeboard
+noticeboard,physically coupled with,ornament
+ornament,physically coupled with,noticeboard
+noticeboard,material,fibreboard
+noticeboard,material,acrylic
+noticeboard,material,steel
+work lamp,located in,study room
+work lamp,functionally coupled with,printed book
+printed book,functionally coupled with,work lamp
+work lamp,functionally coupled with,writing stationaries
+writing stationaries,functionally coupled with,work lamp
+work lamp,functionally coupled with,file
+file,functionally coupled with,work lamp
+work lamp,physically coupled with,computer desk
+computer desk,physically coupled with,work lamp
+work lamp,physically coupled with,cable
+cable,physically coupled with,work lamp
+work lamp,physically coupled with,drawer units
+drawer units,physically coupled with,work lamp
+work lamp,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,work lamp
+work lamp,material,steel
+work lamp,material,bamboo
+work lamp,material,polyethylene plastic
+cable management box,located in,study room
+cable management box,functionally coupled with,cable
+cable,functionally coupled with,cable management box
+cable management box,functionally coupled with,work lamp
+work lamp,functionally coupled with,cable management box
+cable management box,functionally coupled with,computer desk
+computer desk,functionally coupled with,cable management box
+cable management box,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,cable management box
+cable management box,physically coupled with,computer desk
+computer desk,physically coupled with,cable management box
+cable management box,physically coupled with,drawer units
+drawer units,physically coupled with,cable management box
+cable management box,physically coupled with,cable
+cable,physically coupled with,cable management box
+cable management box,physically coupled with,work lamp
+work lamp,physically coupled with,cable management box
+cable management box,physically coupled with,computer accessories
+computer accessories,physically coupled with,cable management box
+cable management box,material,abs plastic
+nursery curtains,located in,study room
+nursery curtains,subclass of,lines
+nursery curtains,subclass of,hanging
+nursery curtains,functionally coupled with,work lamp
+work lamp,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,printed book
+printed book,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,writing tools
+writing tools,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,writing stationaries
+writing stationaries,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,file
+file,functionally coupled with,nursery curtains
+accessories stand,located in,study room
+accessories stand,functionally coupled with,pen holder
+pen holder,functionally coupled with,accessories stand
+accessories stand,functionally coupled with,ornament
+ornament,functionally coupled with,accessories stand
+accessories stand,functionally coupled with,noticeboard
+noticeboard,functionally coupled with,accessories stand
+accessories stand,functionally coupled with,wall hook
+wall hook,functionally coupled with,accessories stand
+accessories stand,functionally coupled with,picture frame
+picture frame,functionally coupled with,accessories stand
+accessories stand,physically coupled with,cable
+cable,physically coupled with,accessories stand
+accessories stand,physically coupled with,computer desk
+computer desk,physically coupled with,accessories stand
+accessories stand,physically coupled with,computer accessories
+computer accessories,physically coupled with,accessories stand
+accessories stand,material,solid beech
+accessories stand,material,polyamide plastic
+accessories stand,material,steel
+ceiling spotlight,located in,study room
+ceiling spotlight,functionally coupled with,work lamp
+work lamp,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,writing tools
+writing tools,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,writing stationaries
+writing stationaries,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,file
+file,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,ceiling spotlight
+ceiling spotlight,material,acrylic plastic
+wall spotlight,located in,study room
+wall spotlight,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,work lamp
+work lamp,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,printed book
+printed book,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,writing tools
+writing tools,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,writing stationaries
+writing stationaries,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,file
+file,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,wall spotlight
+wall spotlight,physically coupled with,wall
+wall,physically coupled with,wall spotlight
+wall spotlight,material,steel
+wall spotlight,material,zinc
+wall shelf,located in,study room
+wall shelf,functionally coupled with,computer desk
+computer desk,functionally coupled with,wall shelf
+wall shelf,functionally coupled with,drawer units
+drawer units,functionally coupled with,wall shelf
+wall shelf,functionally coupled with,cube storage
+cube storage,functionally coupled with,wall shelf
+wall shelf,functionally coupled with,wall hook
+wall hook,functionally coupled with,wall shelf
+wall shelf,functionally coupled with,printed bookcase
+printed bookcase,functionally coupled with,wall shelf
+wall shelf,physically coupled with,pen holder
+pen holder,physically coupled with,wall shelf
+wall shelf,physically coupled with,wall spotlight
+wall spotlight,physically coupled with,wall shelf
+wall shelf,physically coupled with,picture frame
+picture frame,physically coupled with,wall shelf
+wall shelf,physically coupled with,folder
+folder,physically coupled with,wall shelf
+wall shelf,physically coupled with,computer accessories
+computer accessories,physically coupled with,wall shelf
+wall shelf,physically coupled with,cable
+cable,physically coupled with,wall shelf
+smart phone,located in,study room
+smart phone,functionally coupled with,work lamp
+work lamp,functionally coupled with,smart phone
+smart phone,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,smart phone
+smart phone,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,smart phone
+smart phone,functionally coupled with,cable
+cable,functionally coupled with,smart phone
+smart phone,physically coupled with,computer desk
+computer desk,physically coupled with,smart phone
+smart phone,physically coupled with,cable
+cable,physically coupled with,smart phone
+smart phone,physically coupled with,drawer units
+drawer units,physically coupled with,smart phone
+smart phone,physically coupled with,cable management box
+cable management box,physically coupled with,smart phone
+smart phone,physically coupled with,wall shelf
+wall shelf,physically coupled with,smart phone
+smart phone,physically coupled with,writing stationaries
+writing stationaries,physically coupled with,smart phone
+smart phone,physically coupled with,accessories stand
+accessories stand,physically coupled with,smart phone
+smart home controller,located in,study room
+smart home controller,physically coupled with,computer desk
+computer desk,physically coupled with,smart home controller
+smart home controller,physically coupled with,drawer units
+drawer units,physically coupled with,smart home controller
+smart home controller,physically coupled with,wall shelf
+wall shelf,physically coupled with,smart home controller
+smart home controller,physically coupled with,cable
+cable,physically coupled with,smart home controller
+smart soundbar,located in,study room
+smart soundbar,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,smart soundbar
+smart soundbar,physically coupled with,computer desk
+computer desk,physically coupled with,smart soundbar
+smart soundbar,physically coupled with,drawer units
+drawer units,physically coupled with,smart soundbar
+smart soundbar,physically coupled with,wall shelf
+wall shelf,physically coupled with,smart soundbar
+smart air conditioner,located in,study room
+smart charging board,located in,study room
+smart charging board,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,smart charging board
+smart charging board,functionally coupled with,cable management box
+cable management box,functionally coupled with,smart charging board
+smart charging board,physically coupled with,computer desk
+computer desk,physically coupled with,smart charging board
+smart charging board,physically coupled with,cable management box
+cable management box,physically coupled with,smart charging board
+smart charging board,physically coupled with,drawer units
+drawer units,physically coupled with,smart charging board
+computer,located in,study room
+computer,functionally coupled with,smart phone
+smart phone,functionally coupled with,computer
+computer,functionally coupled with,smart sound bar
+smart sound bar,functionally coupled with,computer
+computer,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,computer
+computer,functionally coupled with,nursery curtains
+nursery curtains,functionally coupled with,computer
+computer,functionally coupled with,work lamp
+work lamp,functionally coupled with,computer
+computer,functionally coupled with,ceiling spotlight
+ceiling spotlight,functionally coupled with,computer
+computer,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,computer
+computer,functionally coupled with,computer accessories
+computer accessories,functionally coupled with,computer
+computer,physically coupled with,computer desk
+computer desk,physically coupled with,computer
+computer,physically coupled with,cable management box
+cable management box,physically coupled with,computer
+computer,physically coupled with,cable
+cable,physically coupled with,computer
+computer,physically coupled with,computer accessories
+computer accessories,physically coupled with,computer
+robot vacuum cleaner,located in,study room
+robot vacuum cleaner,physically coupled with,computer desk
+computer desk,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,drawer units
+drawer units,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,office chair
+office chair,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,robot vacuum cleaner
+robot vacuum cleaner,physically coupled with,shelving units
+shelving units,physically coupled with,robot vacuum cleaner
+smart lighting,located in,study room
+smart lighting,functionally coupled with,work lamp
+work lamp,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,computer
+computer,functionally coupled with,smart lighting
+smart lighting,physically coupled with,cable management box
+cable management box,physically coupled with,smart lighting
+smart lighting,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart lighting
+smart thermometer,located in,study room
+smart thermometer,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart thermometer
+smart thermometer,functionally coupled with,computer
+computer,functionally coupled with,smart thermometer
+smart thermometer,physically coupled with,cable management box
+cable management box,physically coupled with,smart thermometer
+smart wi-fi box,located in,study room
+smart wi-fi box,functionally coupled with,smart phone
+smart phone,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,smart home controller
+smart home controller,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,smart thermometer
+smart thermometer,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,robot vacuum cleaner
+robot vacuum cleaner,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,computer
+computer,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,smart soundbar
+smart soundbar,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,smart air conditioner
+smart air conditioner,functionally coupled with,smart wi-fi box
+smart wi-fi box,physically coupled with,computer desk
+computer desk,physically coupled with,smart wi-fi box
+smart wi-fi box,physically coupled with,drawer units
+drawer units,physically coupled with,smart wi-fi box
+smart wi-fi box,physically coupled with,wall shelf
+wall shelf,physically coupled with,smart wi-fi box
+smart wi-fi box,physically coupled with,floor
+floor,physically coupled with,smart wi-fi box
+smart wi-fi box,physically coupled with,cable management box
+cable management box,physically coupled with,smart wi-fi box
+smart wi-fi box,physically coupled with,cable
+cable,physically coupled with,smart wi-fi box
+smart security camera,located in,study room
+smart security camera,functionally coupled with,computer
+computer,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,work lamp
+work lamp,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,smart security camera
+smart security camera,functionally coupled with,cable management box
+cable management box,functionally coupled with,smart security camera
+smart security camera,physically coupled with,computer desk
+computer desk,physically coupled with,smart security camera
+smart security camera,physically coupled with,wall shelf
+wall shelf,physically coupled with,smart security camera
+smart security camera,physically coupled with,drawer units
+drawer units,physically coupled with,smart security camera
+smart security camera,physically coupled with,cube storage
+cube storage,physically coupled with,smart security camera
+smart security camera,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,smart security camera
+smart security camera,physically coupled with,shelving units
+shelving units,physically coupled with,smart security camera
+smart security camera,physically coupled with,cable management box
+cable management box,physically coupled with,smart security camera
+smart security camera,physically coupled with,cable
+cable,physically coupled with,smart security camera
+kindle,located in,study room
+kindle,functionally coupled with,smart wi-fi box
+smart wi-fi box,functionally coupled with,kindle
+kindle,functionally coupled with,computer
+computer,functionally coupled with,kindle
+kindle,functionally coupled with,smart lighting
+smart lighting,functionally coupled with,kindle
+kindle,functionally coupled with,wall spotlight
+wall spotlight,functionally coupled with,kindle
+kindle,functionally coupled with,work lamp
+work lamp,functionally coupled with,kindle
+kindle,physically coupled with,computer desk
+computer desk,physically coupled with,kindle
+kindle,physically coupled with,drawer units
+drawer units,physically coupled with,kindle
+kindle,physically coupled with,paper & media box
+paper & media box,physically coupled with,kindle
+kindle,physically coupled with,accessories stand
+accessories stand,physically coupled with,kindle
+smart alarm clock,located in,study room
+smart alarm clock,functionally coupled with,computer
+computer,functionally coupled with,smart alarm clock
+smart alarm clock,physically coupled with,computer desk
+computer desk,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,drawer units
+drawer units,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,shelving units
+shelving units,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,printed bookcase
+printed bookcase,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,wall shelf
+wall shelf,physically coupled with,smart alarm clock
+smart alarm clock,physically coupled with,smart charging board
+smart charging board,physically coupled with,smart alarm clock
+folder,located in,study room
+writing tools,located in,study room
+pen holder,located in,study room
+writing stationaries,located in,study room
+file,located in,study room
+printed book,located in,study room
+picture frame,located in,study room
+wall hook,located in,study room
+cable,located in,study room
+computer accessories,located in,study room
+chair pillow,located in,study room
+tableware,located in,study room
+potted plant,located in,study room
+ornament,located in,study room
+ac power socket,subclass of,socket
+ac power socket,subclass of,ac power connector
+ac power socket,subclass of,electrical receptacle
+acrylic,subclass of,tennis playing surface
+air conditioner,subclass of,heat pump
+air conditioner,subclass of,home appliance
+air purifier,subclass of,home appliance
+air quality sensor,subclass of,sensor
+alarm clock,subclass of,timer
+alarm clock,subclass of,clock
+aluminium,subclass of,building material
+aluminium,subclass of,combustible powder
+aluminium,subclass of,medication
+aluminium,subclass of,post-transition metal
+armchair,subclass of,chair
+armrest,subclass of,furniture
+autonomous robot,subclass of,mobile robot
+autonomous robot,subclass of,robot
+baby,subclass of,population group
+baby,subclass of,child
+bag,subclass of,container
+bag,subclass of,costume accessory
+bamboo,subclass of,grass
+basket,subclass of,container
+bath towel,subclass of,towel
+bathroom,subclass of,room
+battery,subclass of,assembly
+battery,subclass of,electrical device
+battery,subclass of,electric power source
+battery,subclass of,energy storage
+bed,subclass of,sleeping place
+bed,subclass of,furniture
+bedroom,subclass of,room
+bedroom,subclass of,sleeping place
+bench,subclass of,seat
+bench,subclass of,street furniture
+blackboard,subclass of,educational material
+blackboard,subclass of,painting material
+bookcase,subclass of,cabinet
+bookcase,subclass of,shelf
+bowl,subclass of,tableware
+bowl,subclass of,container
+box,subclass of,container
+box,subclass of,packaging and labeling
+bristle,subclass of,fiber
+broom,subclass of,brush
+broom,subclass of,cleaning tool
+brush,subclass of,hand tool
+cabinet,subclass of,furniture
+cable,subclass of,rope
+carpet,subclass of,floor covering
+ceiling,subclass of,architectural element
+ceiling,subclass of,horizontal structural element
+ceiling fan,subclass of,fan appliance
+ceiling fan,subclass of,home furnishing
+chair,subclass of,seat
+chair,subclass of,furniture
+chaise longue,subclass of,furniture
+chest of drawers,subclass of,cabinet
+children,subclass of,kindred
+cleaning tool,subclass of,tool
+clock,subclass of,metrological mechanism
+clock,subclass of,machine
+clock,subclass of,timepiece
+clothes rack,subclass of,artificial physical object
+coffee table,subclass of,table
+coir,subclass of,plant fiber
+computer,subclass of,it system
+computer,subclass of,computing platform
+computer,subclass of,machine
+computer desk,subclass of,desk
+construction set,subclass of,toy
+container,subclass of,storage
+container,subclass of,artificial physical object
+container,subclass of,tool
+cooker,subclass of,device
+cooking appliance,subclass of,heater
+cooking appliance,subclass of,home appliance
+cot,subclass of,bed
+cotton,subclass of,plant fiber
+couch,subclass of,seat
+couch,subclass of,furniture
+cup,subclass of,drinking vessel
+curtain,subclass of,linens
+curtain,subclass of,hanging
+cushion,subclass of,soft furnishing
+desk,subclass of,table
+desk,subclass of,furniture
+dining room,subclass of,room
+dining table,subclass of,table
+dishcloth,subclass of,cleaning cloths
+dishcloth,subclass of,linens
+dishwasher,subclass of,home appliance
+dishwasher,subclass of,cleaning tool
+doll,subclass of,toy
+door,subclass of,architectural element
+door,subclass of,device
+door,subclass of,obstacle
+dressing table,subclass of,table
+dryer,subclass of,device
+dryer,subclass of,machine
+dustpan,subclass of,waste container
+dustpan,subclass of,cleaning tool
+duvet,subclass of,bedding
+duvet,subclass of,blanket
+e-book reader,subclass of,mobile device
+electricity meter,subclass of,measuring instrument
+eyeglasses,subclass of,corrective lens
+eyeglasses,subclass of,costume accessory
+fan appliance,subclass of,home appliance
+fan appliance,subclass of,electrical appliance
+fastener,subclass of,connector
+fastener,subclass of,machine element
+fastener,subclass of,tool
+floor,subclass of,architectural element
+floor lamp,subclass of,lamp
+flowerpot,subclass of,plant container
+food,subclass of,disposable product
+food,subclass of,physical object
+footstool,subclass of,stool
+furniture,subclass of,product
+furniture,subclass of,utensil
+furniture,subclass of,artificial physical object
+furniture,subclass of,furnishing
+galvanised steel,subclass of,alloy steel
+glass,subclass of,material
+glass,subclass of,amorphous solid
+glass,subclass of,solid
+glassware,subclass of,manufactured object
+hanging,subclass of,covering
+home appliance,subclass of,device
+home appliance,subclass of,manufactured good
+hook,subclass of,connector
+hook,subclass of,fastener
+information appliance,subclass of,mobile device
+ironing board,subclass of,tool
+jute,subclass of,bast fibre
+jute,subclass of,plant fiber
+kitchen,subclass of,room
+kitchen stove,subclass of,stove
+kitchen stove,subclass of,container
+kitchen stove,subclass of,cooking appliance
+knife,subclass of,tool
+lamp,subclass of,light source
+lamp,subclass of,light fixture
+lamp,subclass of,artificial physical object
+lamp,subclass of,furniture
+laundry room,subclass of,room
+light bulb,subclass of,lamp
+light bulb,subclass of,nonbiological component
+light bulb,subclass of,electric light
+linens,subclass of,product
+linens,subclass of,artificial physical object
+linens,subclass of,tangible good
+linens,subclass of,hospital equipment and supplies
+linens,subclass of,home furnishing
+litter,subclass of,transgression
+litter,subclass of,waste
+litter,subclass of,disposal
+living room,subclass of,room
+loudspeaker,subclass of,electrical device
+loudspeaker,subclass of,sound transducer
+marker pen,subclass of,pen
+marker pen,subclass of,painting material
+marker pen,subclass of,writing implement
+mattress,subclass of,device
+mattress,subclass of,bedding
+melamine,subclass of,organic compound
+mirror,subclass of,material
+mirror,subclass of,art material
+mirror,subclass of,optical component
+mobile computer,subclass of,mobile device
+mobile computer,subclass of,computer
+mobile phone,subclass of,mobile device
+mobile phone,subclass of,telephone
+monitor,subclass of,display device
+monitor,subclass of,electronic visual display
+mug,subclass of,cup
+office chair,subclass of,chair
+ornament,subclass of,artificial physical object
+paper,subclass of,writing surface
+paper,subclass of,manifestation
+paper,subclass of,intermediate product
+paper,subclass of,painting support
+paper,subclass of,paleographical writing material
+particle board,subclass of,fiberboard
+pedal bin,subclass of,waste container
+pegboard,subclass of,hardboard
+pegboard,subclass of,wall covering
+picture frame,subclass of,artificial physical object
+pillow,subclass of,cushion
+plastic,subclass of,material
+plastic,subclass of,chemical substance
+plate,subclass of,dish
+plumbing fixture,subclass of,nonbiological component
+plywood,subclass of,panel
+plywood,subclass of,engineered wood
+polyester,subclass of,synthetic fabric
+polyurethane,subclass of,polymer
+polyurethane,subclass of,plastic
+pot,subclass of,vessel
+potted plant,subclass of,cultigen
+power cable,subclass of,electrical cable
+printed book,subclass of,printed matter
+printed book,subclass of,book
+rattan,subclass of,plant material
+refrigerator,subclass of,major appliance
+rug,subclass of,floor covering
+sanitation,subclass of,environmental policy
+sanitation,subclass of,hygiene
+sanitation,subclass of,environmental factor
+satchel,subclass of,book bag
+seat,subclass of,furniture
+sensor,subclass of,measuring instrument
+shampoo,subclass of,hair care products
+shelf,subclass of,furniture
+shoe,subclass of,footwear
+shoehorn,subclass of,tool
+shower,subclass of,plumbing fixture
+shower curtain,subclass of,curtain
+shower head,subclass of,plumbing fixture
+sideboard,subclass of,cabinet
+sink,subclass of,wash basin
+sink,subclass of,plumbing fixture
+sink,subclass of,sink
+slipcover,subclass of,covering
+smart air purifier,subclass of,air purifier
+smart air purifier,subclass of,smart device
+smart air purifier,subclass of,smart appliance
+smart appliance,subclass of,home appliance
+smart appliance,subclass of,smart device
+smart device,subclass of,smart object
+smart device,subclass of,electronic machine
+smart dishwasher,subclass of,dishwasher
+smart dishwasher,subclass of,smart appliance
+smart glass,subclass of,smart device
+smart glass,subclass of,glass
+smart meter,subclass of,measuring instrument
+smart meter,subclass of,smart device
+smart meter,subclass of,electricity meter
+smart oven,subclass of,home appliance
+smart oven,subclass of,smart device
+smart oven,subclass of,kitchen stove
+smart oven,subclass of,cooking appliance
+smart oven,subclass of,smart appliance
+smart speaker,subclass of,smart device
+smart speaker,subclass of,loudspeaker
+smartglasses,subclass of,wearable computer
+smartglasses,subclass of,eyeglasses
+soap,subclass of,organic compound
+soap,subclass of,detergent
+soap,subclass of,salt
+sofa bed,subclass of,couch
+sofa bed,subclass of,bed
+sofa cover,subclass of,slipcover
+soft furnishing,subclass of,furnishing
+solid wood,subclass of,wood
+stain,subclass of,dirt
+stainless steel,subclass of,alloy steel
+steel,subclass of,iron alloy
+step stool,subclass of,stool
+stool,subclass of,seat
+storage bag,subclass of,bag
+stuffed toy,subclass of,comfort object
+stuffed toy,subclass of,toy
+synthetic rubber,subclass of,elastomer
+synthetic rubber,subclass of,synthetic
+table,subclass of,furniture
+table lamp,subclass of,lamp
+table mirror,subclass of,mirror
+tablecloth,subclass of,linens
+tablecloth,subclass of,covering
+tablet computer,subclass of,mobile computer
+tableware,subclass of,kitchenware
+tableware,subclass of,manufactured object
+television set,subclass of,electronic machine
+tempered glass,subclass of,safety glass
+tent,subclass of,shelter
+toilet,subclass of,facility
+toilet,subclass of,plumbing fixture
+toilet brush,subclass of,brush
+toilet seat,subclass of,seat
+tool,subclass of,product
+tool,subclass of,equipment
+tool,subclass of,converter
+toothbrush,subclass of,brush
+toothbrush,subclass of,personal hygiene item
+toothbrush holder,subclass of,container
+towel,subclass of,kitchenware
+towel,subclass of,bathroom linen
+towel rack,subclass of,stand
+towel rack,subclass of,furniture
+toy,subclass of,product
+toy,subclass of,physical object
+toy,subclass of,recreative work
+trolley,subclass of,vehicle
+vacuum cleaner,subclass of,home appliance
+vacuum cleaner,subclass of,cleaning tool
+vacuum cleaner,subclass of,electromechanical device
+vase,subclass of,work of art
+vase,subclass of,container
+vase,subclass of,bin
+wall,subclass of,architectural structure
+wall,subclass of,support
+wall,subclass of,fencing structures
+wall clock,subclass of,clock
+wall covering,subclass of,covering
+wall hook,subclass of,household hook
+wall lamp,subclass of,oil lamp
+wall mirror,subclass of,ornament
+wall rack,subclass of,furniture
+wardrobe,subclass of,cabinet
+wash basin,subclass of,bowl
+wash basin,subclass of,container
+wash basin,subclass of,lebrillo
+wash basin,subclass of,water storage
+washing machine,subclass of,home appliance
+washing machine,subclass of,major appliance
+washing machine,subclass of,cleaning tool
+washstand,subclass of,furniture
+waste container,subclass of,container
+waste container,subclass of,bin
+water,subclass of,natural resource
+water,subclass of,dihydrogen chalcogenide
+water,subclass of,oxide
+wearable computer,subclass of,mobile computer
+wearable technology,subclass of,costume accessory
+wearable technology,subclass of,consumer electronics
+window,subclass of,facade
+window,subclass of,architectural element
+wristwatch,subclass of,watch
+writing implement,subclass of,stationery
+writing implement,subclass of,equipment
+zinc,subclass of,material
+zinc,subclass of,post-transition metal

@@ -1,0 +1,101 @@
+Product A,Relation,Product B,Prediction Result
+kindle,functionally coupled with,smart air conditioner,FALSE
+smart air purifier,functionally coupled with,smart frame,FALSE
+smart air conditioner,functionally coupled with,smart led bulb,FALSE
+air quality sensor,functionally coupled with,smart meter,FALSE
+smart scale,functionally coupled with,smart speaker,FALSE
+smart scale,functionally coupled with,air quality sensor,FALSE
+smart scale,functionally coupled with,smart led bulb,FALSE
+smart led bulb,functionally coupled with,usb charger,FALSE
+smart toothbrush,functionally coupled with,smart speaker,FALSE
+smart toothbrush,functionally coupled with,lego set,FALSE
+smart tv,functionally coupled with,smart curtain,FALSE
+smart baby monitor,functionally coupled with,smart air purifier,FALSE
+smart baby monitor,functionally coupled with,smart speaker,FALSE
+smart dishwasher,functionally coupled with,lego set,FALSE
+smart gas detector,functionally coupled with,shelves & drawers,FALSE
+smart security camera,functionally coupled with,footstool,FALSE
+robot vacuum cleaner,functionally coupled with,chest of drawers,FALSE
+robot vacuum cleaner,functionally coupled with,computer,FALSE
+robot vacuum cleaner,functionally coupled with,tv cabinet,FALSE
+smart feeder,functionally coupled with,potted plant,FALSE
+smart fridge,functionally coupled with,hobs,FALSE
+smart coffee machine,functionally coupled with,smart gas detector,FALSE
+smart alarm clock,functionally coupled with,smart air purifier,FALSE
+smart wi-fi box,functionally coupled with,lego set,FALSE
+computer,functionally coupled with,wall shelf,FALSE
+smart sound bar,functionally coupled with,children smart watch,FALSE
+smart tv,functionally coupled with,wine rack,FALSE
+kindle,functionally coupled with,drying rack,FALSE
+smart air conditioner,functionally coupled with,laundry basket,FALSE
+ipad,functionally coupled with,stool,FALSE
+ipad,functionally coupled with,smart frame,TRUE
+ipad,functionally coupled with,smart curtain,TRUE
+ipad,functionally coupled with,smart blinds,TRUE
+smart phone,functionally coupled with,smart frame,TRUE
+smart phone,functionally coupled with,smart curtain,TRUE
+smart phone,functionally coupled with,smart meter,TRUE
+smart blinds,functionally coupled with,smart curtain,TRUE
+smart blinds,functionally coupled with,smart meter,TRUE
+smart frame,functionally coupled with,wifi router,TRUE
+kindle,functionally coupled with,printed book,TRUE
+kindle,functionally coupled with,usb charger,TRUE
+kindle,functionally coupled with,smart led bulb,TRUE
+kindle,functionally coupled with,wifi router,TRUE
+kindle,functionally coupled with,smart curtain,TRUE
+kindle,functionally coupled with,smart speaker,TRUE
+smart clock,functionally coupled with,smart phone,TRUE
+smart clock,functionally coupled with,ipad,TRUE
+smart clock,functionally coupled with,smart led bulb,TRUE
+smart clock,functionally coupled with,smart speaker,TRUE
+smart air purifier,functionally coupled with,robot vacuum cleaner,TRUE
+smart air purifier,functionally coupled with,smart air conditioner,TRUE
+smart air purifier,functionally coupled with,smart speaker,TRUE
+smart air purifier,functionally coupled with,smart meter,TRUE
+smart air conditioner,functionally coupled with,smart speaker,TRUE
+air quality sensor,functionally coupled with,smart air conditioner,TRUE
+air quality sensor,functionally coupled with,smart air purifier,TRUE
+smart led bulb,functionally coupled with,ipad,TRUE
+smart toothbrush,functionally coupled with,ipad,TRUE
+smart toothbrush,functionally coupled with,wifi router,TRUE
+smart toilet seat,functionally coupled with,smart phone,TRUE
+smart speaker,functionally coupled with,smart tv,TRUE
+smart speaker,functionally coupled with,smart air conditioner,TRUE
+smart speaker,functionally coupled with,wifi router,TRUE
+smart speaker,functionally coupled with,smart meter,TRUE
+children smart watch,functionally coupled with,tablet computer,TRUE
+children smart watch,functionally coupled with,alarm clock,TRUE
+children smart watch,functionally coupled with,battery,TRUE
+smart tv,functionally coupled with,smart speaker,TRUE
+smart tv,functionally coupled with,smart led bulb,TRUE
+smart tv,functionally coupled with,wifi router,TRUE
+smart projector,functionally coupled with,ipad,TRUE
+smart projector,functionally coupled with,smart curtain,TRUE
+smart projector,functionally coupled with,smart blinds,TRUE
+smart glass,functionally coupled with,smart meter,TRUE
+smart air humidifier,functionally coupled with,potted plant,TRUE
+robot vacuum cleaner,functionally coupled with,footstool,TRUE
+robot vacuum cleaner,functionally coupled with,pouffe,TRUE
+robot vacuum cleaner,functionally coupled with,armchair,TRUE
+robot vacuum cleaner,functionally coupled with,side board,TRUE
+smart security camera,functionally coupled with,nursery curtains,TRUE
+smart security camera,functionally coupled with,floor lamp,TRUE
+smart security camera,functionally coupled with,smart charging board,TRUE
+smart security camera,functionally coupled with,ceiling spotlight,TRUE
+smart tv,functionally coupled with,smart soundbar,TRUE
+smart tv,functionally coupled with,smart lighting,TRUE
+smart tv,functionally coupled with,floor lamp,TRUE
+smart tv,functionally coupled with,ceiling spotlight,TRUE
+smart oven,functionally coupled with,cooker,TRUE
+smart oven,functionally coupled with,hobs,TRUE
+smart microwave oven,functionally coupled with,bowl,TRUE
+smart microwave oven,functionally coupled with,mug,TRUE
+smart microwave oven,functionally coupled with,glassware,TRUE
+smart crockpot,functionally coupled with,smart microwave oven,TRUE
+smart crockpot,functionally coupled with,smart range hood,TRUE
+smart dishwasher,functionally coupled with,cooker,TRUE
+smart dishwasher,functionally coupled with,glassware,TRUE
+robot vacuum cleaner,functionally coupled with,nursery curtains,TRUE
+robot vacuum cleaner,functionally coupled with,trolley,TRUE
+robot vacuum cleaner,functionally coupled with,console table,TRUE
+robot vacuum cleaner,functionally coupled with,wine rack,TRUE
